@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Met à jour data/events.json depuis des sources ouvertes (Opendatasoft et OpenAgenda)."""
-import json, os, re, sys, unicodedata, urllib.parse, urllib.request
+import json, os, re, sys, time, unicodedata, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import date, datetime, timedelta, timezone
@@ -47,8 +47,11 @@ def yes(v):
 def ages_from(text):
     t = plain(text)
     lo, hi = 0, 99
-    m = re.search(r"(\d+)\s*(?:a|-|/|et)\s*(\d+)\s*ans", t)
+    m = re.search(r"age minimum\s*:\s*(\d+)\s*et\s*age maximum\s*:\s*(\d+)", t)
     if m:
+        lo, hi = int(m.group(1)), int(m.group(2))
+    elif re.search(r"(\d+)\s*(?:a|-|/|et)\s*(\d+)\s*ans", t):
+        m = re.search(r"(\d+)\s*(?:a|-|/|et)\s*(\d+)\s*ans", t)
         lo, hi = int(m.group(1)), int(m.group(2))
     else:
         m = re.search(r"(?:a partir de|des)\s*(\d+)\s*(ans|mois)", t)
@@ -140,33 +143,49 @@ def dates_of(rec):
 
 def rss_event(rec):
     titre = clean(rec.get("title"))
-    ds = [d for d in dates_of(rec) if d >= TODAY]
-    if not titre or not ds:
+    start, end = iso(rec.get("startdate")), iso(rec.get("enddate"))
+    if not start:
+        ds = [d for d in dates_of(rec) if d >= TODAY]
+        start, end = (ds[0], ds[-1]) if ds else (None, None)
+    end = end or start
+    if not titre or not start or end < TODAY:
         return None
     blob = " ".join(str(v) for v in rec.values())
     pb = plain(blob)
-    ville = next((v for v in VILLES if plain(v) in pb), None)
+    lieu = clean(rec.get("location"))
+    ville = next((v for v in VILLES if plain(v) in plain(lieu)), None)
     if not ville or not KIDS.search(pb):
         return None
-    start, end = ds[0], ds[-1]
-    if date.fromisoformat(end) - date.fromisoformat(start) > timedelta(days=45):
+    if "expo" not in pb and date.fromisoformat(end) - date.fromisoformat(start) > timedelta(days=45):
         end = start
-    desc = clean(rec.get("description"))
     link = rec.get("link") or ""
-    return {"n": titre[:120], "w": ville, "d": desc[:240], "start": start, "end": end,
-            "ages": ages_from(blob), "lieu": "mixte",
-            "prix": "gratuit" if "gratuit" in pb else "inconnu",
-            "url": link if link.startswith(("http://", "https://")) else None}
+    ev = {"n": titre[:120], "w": lieu[:90], "d": clean(rec.get("description"))[:240], "start": start, "end": end,
+          "ages": ages_from(blob), "lieu": "mixte", "prix": "gratuit" if "gratuit" in pb else "inconnu",
+          "url": link if link.startswith(("http://", "https://")) else None}
+    try:
+        ev["lat"], ev["lon"] = float(rec["lat"]), float(rec["long"])
+    except (KeyError, ValueError):
+        pass
+    return ev
 
 
 def fetch_rss(src):
-    items = rss_items(get(src["url"], raw=True))
-    print("Éléments dans le flux : %d" % len(items))
+    items, seen = [], set()
+    for page in range(1, 16):
+        got = rss_items(get(src["url"] + "&page=%d" % page, raw=True))
+        new = [i for i in got if (i.get("guid") or i.get("link")) not in seen]
+        if not new:
+            break
+        seen.update(i.get("guid") or i.get("link") for i in new)
+        items += new
+        time.sleep(1)
+    print("Éléments dans le flux : %d (pages lues : %d)" % (len(items), page))
     if items:
         print("Champs du premier élément :", sorted(items[0].keys()))
-        print("Exemple :", json.dumps(items[0], ensure_ascii=False)[:700])
     out = [e for e in map(rss_event, items) if e]
-    print("Retenus (ville + enfants + date) : %d" % len(out))
+    print("Retenus (commune + enfants + date) : %d" % len(out))
+    for e in out[:5]:
+        print("  -", e["start"], e["n"][:50], "|", e["w"][:40])
     return out
 
 
