@@ -20,7 +20,7 @@ TODAY = date.today().isoformat()
 ALL_AGES = ["0-3", "3-6", "6-12", "12+"]
 BUCKETS = [("0-3", 0, 3), ("3-6", 3, 6), ("6-12", 6, 12), ("12+", 12, 99)]
 MOIS = {m: i + 1 for i, m in enumerate("janvier fevrier mars avril mai juin juillet aout septembre octobre novembre decembre".split())}
-KIDS = re.compile(r"enfant|famille|jeune public|tout-petit|tout petit|bebe|ados?\b|conte|marionnette|ludique|\d+\s*ans")
+KIDS = re.compile(r"enfant|en famille|pour les familles|jeune public|tout-petit|tout petit|bebe|marionnette|\bcontes?\b|raconte")
 
 
 def get(url, raw=False):
@@ -170,16 +170,22 @@ def rss_event(rec):
 
 
 def fetch_rss(src):
-    items, seen = [], set()
-    for page in range(1, 16):
-        got = rss_items(get(src["url"] + "&page=%d" % page, raw=True))
-        new = [i for i in got if (i.get("guid") or i.get("link")) not in seen]
-        if not new:
+    items = []
+    for style in ("size=300&from=%d", "from=%d"):
+        items, seen, pos = [], set(), 0
+        for _ in range(15):
+            got = rss_items(get(src["url"] + "&" + style % pos, raw=True))
+            new = [i for i in got if (i.get("guid") or i.get("link")) not in seen]
+            if not new:
+                break
+            seen.update(i.get("guid") or i.get("link") for i in new)
+            items += new
+            pos += len(new)
+            time.sleep(1)
+        print("Méthode %s : %d éléments" % (style.split("=")[0], len(items)))
+        if len(items) > 20:
             break
-        seen.update(i.get("guid") or i.get("link") for i in new)
-        items += new
-        time.sleep(1)
-    print("Éléments dans le flux : %d (pages lues : %d)" % (len(items), page))
+    print("Éléments dans le flux : %d" % len(items))
     if items:
         print("Champs du premier élément :", sorted(items[0].keys()))
     out = [e for e in map(rss_event, items) if e]
