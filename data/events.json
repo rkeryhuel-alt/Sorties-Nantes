@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-12T07:21:04+00:00",
+ "generated_at": "2026-11-12T12:40:04+00:00",
  "events": [
   {
    "n": "Dérive : concert-récit sur les traces d’Ulysse",
    "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
+   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
    "start": "2026-11-14",
    "end": "2026-11-14",
    "ages": [
@@ -88,7 +88,6 @@
    "start": "2026-11-18",
    "end": "2026-11-18",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -153,9 +152,7 @@
    "end": "2026-11-18",
    "ages": [
     "0-3",
-    "3-6",
-    "6-12",
-    "12+"
+    "3-6"
    ],
    "lieu": "int",
    "prix": "gratuit",
@@ -248,7 +245,6 @@
    "start": "2026-11-25",
    "end": "2026-11-25",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -258,13 +254,28 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82378"
   },
   {
+   "n": "Le Marché de la seconde main 2026",
+   "w": "Nantes",
+   "d": "27 - 29 novembre Envie de dénicher des pépites de seconde main pour un Noël responsable ? Pour sa 5e édition, le Marché de la seconde main se réinstalle passage de la Châtelaine. Au programme : • de super exposant·es engagé·es • stand de ga",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/34964965_le-marche-de-la-seconde-main-2026"
+  },
+  {
    "n": "Conte, raconte",
    "w": "Nantes · Bibliothèque Erdre-Batignolles",
    "d": "16:30. Lectures d'albums à partir de 4 ans",
    "start": "2026-11-28",
    "end": "2026-11-28",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -280,7 +291,6 @@
    "start": "2026-11-28",
    "end": "2026-11-28",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -324,7 +334,7 @@
   {
    "n": "Fjord",
    "w": "Nantes · Médiathèque Floresca Guépin",
-   "d": "16:00 - 17:00. Conte musical en partenariat avec le Conservatoire de NantesAu cœur de l'hiver, suivez Catmarin, un oiseau curieux, à la découverte du langage des fjords. Inspiré de l'album jeunesse Fjord de Willy Wanggen, ce spectacle music",
+   "d": "16:00 - 17:00. Conte musical en partenariat avec le Conservatoire de NantesAu cœur de l'hiver, suivez Catmarin, un oiseau curieux, à la découverte du langage des fjords. Inspiré de l'album jeunesse Fjord de Willy Wanggen, ce spectacle music",
    "start": "2026-11-28",
    "end": "2026-11-28",
    "ages": [
@@ -376,7 +386,6 @@
    "start": "2026-12-02",
    "end": "2026-12-02",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -440,9 +449,6 @@
    "start": "2026-12-02",
    "end": "2026-12-02",
    "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
     "12+"
    ],
    "lieu": "int",
@@ -484,12 +490,10 @@
   {
    "n": "Ciné-surprise + goûter",
    "w": "Nantes · Médiathèque Luce Courville",
-   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. Un goûter sera proposé à l'issue de la projection.À partir de 6 ans",
+   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. Un goûter sera proposé à l'issue de la projection.À partir de 6 ans",
    "start": "2026-12-05",
    "end": "2026-12-05",
    "ages": [
-    "0-3",
-    "3-6",
     "6-12",
     "12+"
    ],
@@ -632,9 +636,6 @@
    "start": "2026-12-09",
    "end": "2026-12-09",
    "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
     "12+"
    ],
    "lieu": "int",
@@ -692,7 +693,7 @@
   {
    "n": "Petits Contes du Grand Nord",
    "w": "Nantes · Médiathèque Luce Courville",
-   "d": "16:00 - 17:00. Avec Noémie Truffaut et la compagnie Les Corbeaux DynamitesPetits Contes du Grand Nord est un voyage au-delà du vent boréal. Dans ce monde-là, en hiver, la terre est blanche de neige et le ciel est blanc de brumes. Si l'on co",
+   "d": "16:00 - 17:00. Avec Noémie Truffaut et la compagnie Les Corbeaux DynamitesPetits Contes du Grand Nord est un voyage au-delà du vent boréal. Dans ce monde-là, en hiver, la terre est blanche de neige et le ciel est blanc de brumes. Si l'on co",
    "start": "2026-12-12",
    "end": "2026-12-12",
    "ages": [
@@ -708,7 +709,7 @@
   {
    "n": "Contes musicaux",
    "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00. En partenariat avec le Conservatoire~BellevueLes classes de piano et de percussion du Conservatoire vont vous faire voyager d’un conte à l’autre ! Une lecture musicale conviviale pour toute la famille en attendant les fêtes.À partir ",
+   "d": "16:00. En partenariat avec le Conservatoire~BellevueLes classes de piano et de percussion du Conservatoire vont vous faire voyager d’un conte à l’autre ! Une lecture musicale conviviale pour toute la famille en attendant les fêtes.À partir ",
    "start": "2026-12-16",
    "end": "2026-12-16",
    "ages": [
@@ -754,6 +755,70 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82446"
   },
   {
+   "n": "Exposition \"Laennec à Nantes, mémoire des collections et postérité\"",
+   "w": "Nantes",
+   "d": "9 novembre - 18 décembre Une exposition pour découvrir l'héritage de René Laennec Il y a 200 ans, le médecin René Laennec meurt de la tuberculose. Inventeur du stéthoscope et du principe de l’auscultation, il s’est en partie formé à Nantes.",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/agenda-patrimoine847/events/52870497_exposition-laennec-a-nantes-memoire-des-collections-et-posterite"
+  },
+  {
+   "n": "Exposition Zoonoses",
+   "w": "Nantes",
+   "d": "19 octobre - 18 décembre Découvrez la diversité des agents pathogènes à l’origine des zoonoses, qu’il s’agisse de virus, bactéries et autres vers parasites. 2019 a été marquée sur le plan mondial par l’apparition de la COVID 19, épidémie re",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/museum-dhistoire-naturelle-de-nantes/events/87782565_exposition-zoonoses"
+  },
+  {
+   "n": "Exposition « 200 photographies pour 200 ans d'histoire »",
+   "w": "Nantes",
+   "d": "15 septembre - 18 décembre Exposition-installation immersive réunissant 200 photographies issues des fonds et collections des Archives départementales. À l’occasion du Bicentenaire de la photographie, les Archives départementales de Loire-A",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/61720552_exposition-200-photographies-pour-200-ans-dhistoire"
+  },
+  {
+   "n": "Exposition « Architecture (s) et grands ensembles »",
+   "w": "Nantes",
+   "d": "8 octobre - 18 décembre L'exposition « Grands ensembles, 1960 - 2010. Regards photographiques », visible à la galerie Loire de l'Ensa, est le point d'entrée du projet Architecture (s) et grands ensembles. L’Ensa Nantes, école nationale supé",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/15211352_exposition-architecture-s-et-grands-ensembles"
+  },
+  {
    "n": "Labo des histoires sonores",
    "w": "Nantes · Médiathèque Luce Courville",
    "d": "17:30 - 19:00. Création d'une fiction sonore. Viens imaginer une histoire, enregistre son univers sonore et laisse la magie de la fiction opérer.",
@@ -788,12 +853,10 @@
   {
    "n": "Ciné-surprise",
    "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. À partir de 6 ans",
+   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. À partir de 6 ans",
    "start": "2026-12-19",
    "end": "2026-12-19",
    "ages": [
-    "0-3",
-    "3-6",
     "6-12",
     "12+"
    ],
@@ -808,7 +871,6 @@
    "start": "2026-12-19",
    "end": "2026-12-19",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -820,7 +882,7 @@
   {
    "n": "Dérive : concert-récit sur les traces d’Ulysse",
    "w": "Nantes · Médiathèque Floresca Guépin",
-   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
+   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
    "start": "2026-12-19",
    "end": "2026-12-19",
    "ages": [
@@ -856,7 +918,6 @@
    "start": "2026-12-22",
    "end": "2026-12-22",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -872,7 +933,6 @@
    "start": "2026-12-23",
    "end": "2026-12-23",
    "ages": [
-    "0-3",
     "3-6",
     "6-12",
     "12+"
@@ -888,9 +948,6 @@
    "start": "2026-12-23",
    "end": "2026-12-23",
    "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
     "12+"
    ],
    "lieu": "int",
@@ -904,24 +961,6 @@
    "start": "2026-12-23",
    "end": "2026-12-23",
    "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-rendez-vous-du-jeu-video-a-lisa-bresner"
-  },
-  {
-   "n": "Les rendez-vous du jeu vidéo",
-   "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "17:00 - 18:00. Découverte de jeux vidéo sur grand écran.Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À partir de 9 ans",
-   "start": "2026-12-23",
-   "end": "2026-12-23",
-   "ages": [
-    "0-3",
-    "3-6",
     "6-12",
     "12+"
    ],
@@ -936,10 +975,7 @@
    "start": "2026-12-29",
    "end": "2026-12-29",
    "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
+    "3-6"
    ],
    "lieu": "int",
    "prix": "gratuit",
@@ -976,6 +1012,65 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82450"
+  },
+  {
+   "n": "Exposition Plants and People - au Musée d’arts de Nantes",
+   "w": "Nantes",
+   "d": "30 janvier 2026 - 3 janvier 2027 Une exposition, deux lieux ! Au Frac à Carquefou et au Musée d'arts de Nantes Née d’un souhait de renouveler les collaborations historiques entre leurs collections, le Musée d’arts de Nantes et le Frac Pays ",
+   "start": "2027-01-03",
+   "end": "2027-01-03",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/99712432_exposition-plants-and-people-au-musee-darts-de-nantes"
+  },
+  {
+   "n": "Don du sang — Maison du don, Nantes",
+   "w": "Nantes",
+   "d": "2 novembre 2026 - 30 janvier 2027 Maison du don de l'Établissement français du sang (EFS) — don de sang, de plasma et de plaquettes. La Maison du don de Nantes est un site de collecte permanent de l'Établissement français du sang (EFS), ouv",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "ages": [
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/collectes-de-don-du-sang/events/86182305_don-du-sang-maison-du-don-nantes"
+  },
+  {
+   "n": "Libellules et autres insectes",
+   "w": "Nantes",
+   "d": "8 novembre 2026 - 5 février 2027 Pour la deuxième année de collaboration, le Muséum d’Histoire Naturelle de Nantes revient avec une nouvelle exposition intitulée « Libellule, entre ciel et eau ». L’exposition qui raconte le cycle de vie des",
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/orvault/events/96997243_libellules-et-autres-insectes"
+  },
+  {
+   "n": "Raconte-moi Bottière Pin-Sec",
+   "w": "Nantes",
+   "d": "19 septembre 2026 - 19 mars 2027 Une exposition à ciel ouvert Venez découvrir une exposition autour de l’histoire et de la mémoire du quartier Bottière Pin-Sec. Cette exposition sera affichée sur les vitres des abribus de la ligne 11 entre ",
+   "start": "2027-03-19",
+   "end": "2027-03-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/doulon-bottiere/events/71515580_raconte-moi-bottiere-pin-sec"
   }
  ]
 }
