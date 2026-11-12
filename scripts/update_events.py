@@ -20,12 +20,12 @@ TODAY = date.today().isoformat()
 ALL_AGES = ["0-3", "3-6", "6-12", "12+"]
 BUCKETS = [("0-3", 0, 3), ("3-6", 3, 6), ("6-12", 6, 12), ("12+", 12, 99)]
 MOIS = {m: i + 1 for i, m in enumerate("janvier fevrier mars avril mai juin juillet aout septembre octobre novembre decembre".split())}
-KIDS = re.compile(r"enfant|en famille|pour les familles|jeune public|tout-petit|tout petit|bebe|marionnette|\bcontes?\b|raconte")
+KIDS = re.compile(r"enfant|en famille|pour les familles|jeune public|tout-petit|tout petit|bebe|marionnette|\bcontes?\b")
 
 
 def get(url, raw=False):
     req = urllib.request.Request(url, headers={"User-Agent": "sorties-nantes/1.0"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with urllib.request.urlopen(req, timeout=20) as r:
         data = r.read()
     return data if raw else json.loads(data)
 
@@ -154,7 +154,7 @@ def rss_event(rec):
     pb = plain(blob)
     lieu = clean(rec.get("location"))
     ville = next((v for v in VILLES if plain(v) in plain(lieu)), None)
-    if not ville or not KIDS.search(pb):
+    if not ville or not KIDS.search(plain(titre + " " + str(rec.get("description") or ""))):
         return None
     if "expo" not in pb and date.fromisoformat(end) - date.fromisoformat(start) > timedelta(days=45):
         end = start
@@ -170,11 +170,21 @@ def rss_event(rec):
 
 
 def fetch_rss(src):
+    deadline = time.time() + 90
     items = []
     for style in ("size=300&from=%d", "from=%d"):
         items, seen, pos = [], set(), 0
-        for _ in range(15):
-            got = rss_items(get(src["url"] + "&" + style % pos, raw=True))
+        for _ in range(6):
+            if time.time() > deadline:
+                print("Temps limite atteint, on s'arrête là.")
+                break
+            t0 = time.time()
+            try:
+                got = rss_items(get(src["url"] + "&" + style % pos, raw=True))
+            except Exception as e:
+                print("Requête en échec (%s) : %s" % (style % pos, e))
+                break
+            print("  requête %s : %d éléments en %.1f s" % (style % pos, len(got), time.time() - t0))
             new = [i for i in got if (i.get("guid") or i.get("link")) not in seen]
             if not new:
                 break
@@ -183,11 +193,12 @@ def fetch_rss(src):
             pos += len(new)
             time.sleep(1)
         print("Méthode %s : %d éléments" % (style.split("=")[0], len(items)))
-        if len(items) > 20:
+        if len(items) > 20 or time.time() > deadline:
             break
+    if not items:
+        raise RuntimeError("flux indisponible")
     print("Éléments dans le flux : %d" % len(items))
-    if items:
-        print("Champs du premier élément :", sorted(items[0].keys()))
+    print("Champs du premier élément :", sorted(items[0].keys()))
     out = [e for e in map(rss_event, items) if e]
     print("Retenus (commune + enfants + date) : %d" % len(out))
     for e in out[:5]:
@@ -216,8 +227,8 @@ def main():
             uniq.append(e)
     os.makedirs("data", exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
-        json.dump({"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "events": uniq[:150]}, f, ensure_ascii=False, indent=1)
-    print("Écrit : %d événements" % min(len(uniq), 150))
+        json.dump({"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "events": uniq[:600]}, f, ensure_ascii=False, indent=1)
+    print("Écrit : %d événements" % min(len(uniq), 600))
 
 
 if __name__ == "__main__":
