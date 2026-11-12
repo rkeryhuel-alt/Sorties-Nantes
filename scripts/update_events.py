@@ -10,7 +10,6 @@ SOURCES = [
         "dataset": "244400404_agenda-animations-culturelles-bibliotheque-municipale-nantes",
         "ville": "Nantes",
     },
-    # Pour ajouter une source du même type, copie le bloc ci-dessus.
 ]
 OUT = "data/events.json"
 TODAY = date.today().isoformat()
@@ -22,41 +21,37 @@ def get(url):
         return json.load(r)
 
 
-def pick(rec, needles):
-    for n in needles:
-        for k, v in rec.items():
-            if n in k.lower() and v not in (None, "", []):
-                return v
-    return None
-
-
 def iso(v):
     m = re.search(r"\d{4}-\d{2}-\d{2}", str(v or ""))
     return m.group(0) if m else None
 
 
+def yes(v):
+    return str(v).strip().lower() in ("oui", "true", "1", "yes")
+
+
 def normalise(rec, src):
-    titre = pick(rec, ["titre", "title", "intitule", "nom", "libelle"])
-    debut = iso(pick(rec, ["date_debut", "datedebut", "debut", "start", "date"]))
-    if not titre or not debut:
+    titre = rec.get("nom")
+    debut = iso(rec.get("date"))
+    if not titre or not debut or debut < TODAY:
         return None
-    fin = iso(pick(rec, ["date_fin", "datefin", "end", "fin"])) or debut
-    if fin < TODAY:
+    if yes(rec.get("annule")) or yes(rec.get("reporte")):
         return None
-    tarif = pick(rec, ["tarif", "prix"])
-    if tarif is None:
-        prix = "inconnu"
-    elif "gratuit" in str(tarif).lower():
-        prix = "gratuit"
-    else:
-        prix = "payant"
-    url = pick(rec, ["url", "lien", "site_web"])
+    if not yes(rec.get("accueil_enfant")):
+        return None
+    g = rec.get("gratuit")
+    prix = "inconnu" if g in (None, "") else ("gratuit" if yes(g) else "payant")
+    heures = " - ".join(str(h) for h in (rec.get("heure_debut"), rec.get("heure_fin")) if h)
+    desc = re.sub(r"<[^>]+>", " ", str(rec.get("description") or "")).strip()
+    if heures:
+        desc = (heures + ". " + desc).strip()
+    url = rec.get("url_site") or rec.get("lien_agenda")
     return {
         "n": str(titre)[:120],
-        "w": "%s · %s" % (src["ville"], str(pick(rec, ["lieu", "bibliotheque", "equipement", "site", "adresse"]) or src["nom"])[:80]),
-        "d": re.sub(r"<[^>]+>", " ", str(pick(rec, ["description", "descriptif", "resume", "texte"]) or ""))[:240].strip(),
+        "w": "%s · %s" % (rec.get("ville") or src["ville"], str(rec.get("lieu") or src["nom"])[:80]),
+        "d": desc[:240],
         "start": debut,
-        "end": fin,
+        "end": debut,
         "ages": ["0-3", "3-6", "6-12", "12+"],
         "lieu": "int",
         "prix": prix,
@@ -64,16 +59,15 @@ def normalise(rec, src):
     }
 
 
-def fetch_source(src):
-    out, offset, first = [], 0, True
-    while offset < 1000:
-        q = urllib.parse.urlencode({"limit": 100, "offset": offset})
-        url = "%s/api/explore/v2.1/catalog/datasets/%s/records?%s" % (src["base"], src["dataset"], q)
-        res = get(url).get("results", [])
-        if first and res:
-            print("Champs disponibles :", sorted(res[0].keys()))
-            print("Exemple :", json.dumps(res[0], ensure_ascii=False)[:600])
-            first = False
+def collect(src, base, params):
+    out, offset, raw = [], 0, 0
+    while offset < 2000:
+        q = urllib.parse.urlencode(dict(params, limit=100, offset=offset))
+        res = get("%s?%s" % (base, q)).get("results", [])
+        if offset == 0 and res:
+            for r in res[:3]:
+                print("Contrôle :", r.get("date"), "| enfant:", r.get("accueil_enfant"), "| gratuit:", r.get("gratuit"))
+        raw += len(res)
         for rec in res:
             ev = normalise(rec, src)
             if ev:
@@ -81,7 +75,20 @@ def fetch_source(src):
         if len(res) < 100:
             break
         offset += 100
+    print("Enregistrements lus : %d, retenus : %d" % (raw, len(out)))
     return out
+
+
+def fetch_source(src):
+    base = "%s/api/explore/v2.1/catalog/datasets/%s/records" % (src["base"], src["dataset"])
+    last = None
+    for params in ({"where": "date >= date'%s'" % TODAY, "order_by": "date"}, {}):
+        try:
+            return collect(src, base, params)
+        except Exception as e:
+            last = e
+            print("Essai sans succès (%s) : %s" % (params or "sans filtre", e))
+    raise last
 
 
 def main():
