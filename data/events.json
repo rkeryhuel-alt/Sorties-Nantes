@@ -1,4 +1,981 @@
 {
- "generated_at": "2026-11-12T07:10:13+00:00",
- "events": []
+ "generated_at": "2026-11-12T07:21:04+00:00",
+ "events": [
+  {
+   "n": "Dérive : concert-récit sur les traces d’Ulysse",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82802"
+  },
+  {
+   "n": "En Grande Pompe",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "16:00. Par la compagnie La Famille CartophilleLa mère de la famille Cartophille aime faire tourner en bourrique la banalité. Dans son boudoir, elle aime manger. Après avoir boulotté tout ce qu'il y avait dans le frigo, elle se rue inévitabl",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "payant",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82390"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque de la Manufacture",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82351"
+  },
+  {
+   "n": "Faire soi-même : atelier crochet",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "15:00 - 17:00. Atelier crochet animé par l’association Au Petit GrenierDécouvrez les bases du crochet lors d’un atelier accessible à tous. Débutant ou simplement curieux d’apprendre une nouvelle activité créative, venez vous initier aux poi",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=faire-soi-meme-atelier-crochet"
+  },
+  {
+   "n": "Faire soi-même : atelier tricot",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "15:00 - 17:00. Atelier tricot animé par l’association Au Petit GrenierMousse, riz, blé, chaînette ou bride : découvrez les bases du tricot lors d’un atelier accessible à tous. Débutant ou simplement curieux d’apprendre une nouvelle activité",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=faire-soi-meme-atelier-tricot"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00. Lectures d'albums à partir de 4 ans",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82377"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/83199"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "10:45. Lectures d'albums à partir de 18 mois",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82352"
+  },
+  {
+   "n": "Les mercredis culturels : atelier théâtre",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "15:00. En partenariat avec la compagnie PaQ’la LuneÀ partir d’un album et à travers différents jeux, un atelier pour découvrir le théâtre en s’amusant.",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-mercredis-culturels-pour-les-7-9-ans"
+  },
+  {
+   "n": "Raconte-moi une histoire",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "10:30. Des histoires en mouvement, en musique, à toucher, pour l’éveil des sens des tout-petits.De 1 à 3 ans",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=raconte-moi-une-histoire-les-sens-en-eveil"
+  },
+  {
+   "n": "La Bibliothèque joue le jeu !",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00 - 18:00. Venez tester en famille notre sélection de jeux de société pour tous les âges.",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82442"
+  },
+  {
+   "n": "Labo des histoires sonores",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "17:30 - 19:00. Création d'une fiction sonore. Viens imaginer une histoire, enregistre son univers sonore et laisse la magie de la fiction opérer.",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82756"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "16:30. Lectures d'albums à partir de 18 mois sur le thème du corps sanbs le cadre de Viens Hal'vec moi",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/83200"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82353"
+  },
+  {
+   "n": "Écrans trop présents ?",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "16:00. Atelier parent-enfant animé par l’association Lève les YeuxParticipatif et bienveillant, cet atelier vise à sensibiliser les parents aux effets de la surexposition aux écrans, d’ouvrir le dialogue sur leurs propres expériences et sur",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=atelier-exposition-aux-ecrans"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "16:30. Lectures d'albums à partir de 4 ans",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82378"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "16:30. Lectures d'albums à partir de 4 ans",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82380"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "11:00. Lectures d'albums à partir de 4 ans",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82379"
+  },
+  {
+   "n": "Découverte instrumentale",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "11:00. En partenariat avec le Conservatoire de NantesParticipez à un atelier animé par Armelle Alexandre, musicienne intervenante au Conservatoire, découvrez les instruments proposés au prêt, testez-les sur place et repartez avec !Pour les ",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=atelier-de-decouverte-instrumentale-en-partenariat-avec-le-conservatoire"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque de la Manufacture",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82354"
+  },
+  {
+   "n": "Fjord",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "16:00 - 17:00. Conte musical en partenariat avec le Conservatoire de NantesAu cœur de l'hiver, suivez Catmarin, un oiseau curieux, à la découverte du langage des fjords. Inspiré de l'album jeunesse Fjord de Willy Wanggen, ce spectacle music",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82392"
+  },
+  {
+   "n": "Présentation d'instruments anciens",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "11:00. Présentation par David Chevallier et Laure Vovard de la compagnie Le SonArtDans la continuité du spectacle The Time Machine, les musiciens dévoilent quelques instruments du 17e siècle, comme le théorbe, le clavicythérium ou le clavic",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82481"
+  },
+  {
+   "n": "The Time Machine",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "16:00. Par la compagnie Le SonArtEt si le temps devenait un terrain de jeu artistique ? Inspiré du roman La Machine à voyager dans le temps de H.G. Wells, The Time Machine fait dialoguer la musique jazz contemporaine et les instruments du 1",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82474"
+  },
+  {
+   "n": "Contes et comptines du Breil",
+   "w": "Nantes · Bibliothèques de Nantes",
+   "d": "10:00. En partenariat avec la ludothèque Accoord du Breil. Lectures d'histoires à partir de 4 ans.Renseignements à la bibliothèque du Breil-Malville",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82985"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "10:30. Lectures d'albums à partir de 18 mois",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82355"
+  },
+  {
+   "n": "Le Labo créatif",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00. De séance en séance, construisons une cabane d'histoires et de sons. Une aventure collective pour lecteurs-explorateurs en herbe !",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=le-labo-creatif-l-bresner"
+  },
+  {
+   "n": "Les métiers du Muséum",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "18:00. Proposé par Les Copains du Muséum de NantesÀ l’occasion du grand chantier en cours jusqu’à la réouverture de 2029, venez rencontrer les professionnels sans qui le Muséum n’existerait pas, découvrir leurs métiers et savoir-faire et pa",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82299"
+  },
+  {
+   "n": "Les rendez-vous du jeu vidéo : Super Mario Bros. Wonder",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "16:00. Mario et ses amis s'embarquent dans une nouvelle aventure haute en couleurs et pleine de surprises !Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À partir de 7 ans",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=jeux-video-du-mercredi"
+  },
+  {
+   "n": "Un Jardin merveilleux",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "16:00 - 17:00. Conte musical avec Valérie Danet et Clémence PrayezÀ la croisée du réel et de l’imaginaire, ce spectacle mêle conte, musique et gestuelle inspirée de la Langue des Signes. Valérie et Clémence invitent petits et grands dans un",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82350"
+  },
+  {
+   "n": "Oculus",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "18:30. Spectacle musical avec Cyril Trochu et Florian ChaigneVivez une expérience sensorielle hors du commun dans l’obscurité la plus totale ! Une immersion dans le son qui vous permettra d’écouter différemment, de ré-enchanter votre relati",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=spectacle-oculus"
+  },
+  {
+   "n": "Ciné-surprise + goûter",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. Un goûter sera proposé à l'issue de la projection.À partir de 6 ans",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82757"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82358"
+  },
+  {
+   "n": "Enfantines du monde",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "11:00. Lectures d'albums en plusieurs langues à partir de 18 mois",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82669"
+  },
+  {
+   "n": "Lecture en musique",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "11:00. En partenariat avec le Conservatoire de NantesUne lecture du conte Guillaume l’apprenti sorcier de Tomi Ungerer, mise en musique par les élèves de la classe de basson du Conservatoire de Nantes. Guillaume était l’apprenti d’un puissa",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82393"
+  },
+  {
+   "n": "Présentation d'instruments anciens",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "16:30. Présentation par David Chevallier et Laure Vovard de la compagnie Le SonArtDans la continuité du spectacle The Time Machine, les musiciens dévoilent quelques instruments du 17e siècle, comme le théorbe, le clavicythérium ou le clavic",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=instruments-anciens"
+  },
+  {
+   "n": "The Time Machine",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "11:00. Par la compagnie Le SonArtEt si le temps devenait un terrain de jeu artistique ? Inspiré du roman La Machine à voyager dans le temps de H.G. Wells, The Time Machine fait dialoguer la musique jazz contemporaine et les instruments du 1",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82475"
+  },
+  {
+   "n": "La tête dans les étoiles : atelier météorites",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "15:00 - 16:30. En partenariat avec le Planétarium de NantesUne initiation à la géologie vous permettra de distinguer les météorites des roches terrestres et de mieux comprendre d’où elles proviennent.À partir de 8 ans",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82394"
+  },
+  {
+   "n": "Les mercredis culturels : atelier théâtre",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "15:00. En partenariat avec la compagnie PaQ’la LuneÀ partir d’un album et à travers différents jeux, un atelier pour découvrir le théâtre en s’amusant.",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-mercredis-culturels-pour-les-4-6-ans"
+  },
+  {
+   "n": "Les métiers du Muséum",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "18:00. Proposé par Les Copains du Muséum de NantesÀ l’occasion du grand chantier en cours jusqu’à la réouverture de 2029, venez rencontrer les professionnels sans qui le Muséum n’existerait pas, découvrir leurs métiers et savoir-faire et pa",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82301"
+  },
+  {
+   "n": "Les rendez-vous du jeu vidéo",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "14:00 - 17:30. En partenariat avec Nantes EsportVenez tester des jeux vidéo et défier d’autres joueurs à travers des matchs sur consoles et tablettes.Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À par",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82444"
+  },
+  {
+   "n": "La Bibliothèque joue le jeu !",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00 - 18:00. Venez tester en famille notre sélection de jeux de société pour tous les âges.",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82445"
+  },
+  {
+   "n": "Découverte instrumentale",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "11:00. En partenariat avec le Conservatoire de NantesParticipez à un atelier animé par Armelle Alexandre, musicienne intervenante au Conservatoire, découvrez les instruments proposés au prêt, testez-les sur place et repartez avec !Pour les ",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=atelier-du-conservatoire-initiation-aux-instruments-de-musique"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque de la Manufacture",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82359"
+  },
+  {
+   "n": "Petits Contes du Grand Nord",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "16:00 - 17:00. Avec Noémie Truffaut et la compagnie Les Corbeaux DynamitesPetits Contes du Grand Nord est un voyage au-delà du vent boréal. Dans ce monde-là, en hiver, la terre est blanche de neige et le ciel est blanc de brumes. Si l'on co",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82396"
+  },
+  {
+   "n": "Contes musicaux",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00. En partenariat avec le Conservatoire~BellevueLes classes de piano et de percussion du Conservatoire vont vous faire voyager d’un conte à l’autre ! Une lecture musicale conviviale pour toute la famille en attendant les fêtes.À partir ",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82383"
+  },
+  {
+   "n": "Enfantines du monde",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "10:45. Lectures d'albums en plusieurs langues à partir de 18 mois",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82382"
+  },
+  {
+   "n": "La Bibliothèque joue le jeu !",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "14:00 - 16:00. Jeux de société en partenariat avec la ludo-biblio Accoord BoissièreEn famille, venez découvrir les jeux coups de cœur des ludothécaires.",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "payant",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82446"
+  },
+  {
+   "n": "Labo des histoires sonores",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "17:30 - 19:00. Création d'une fiction sonore. Viens imaginer une histoire, enregistre son univers sonore et laisse la magie de la fiction opérer.",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82758"
+  },
+  {
+   "n": "Chat caché",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "11:00. Par la Compagnie Davaï !Un chat, des papillons multicolores, des fourmis, des oiseaux… Adapté du livre de Natalie Tual, ce spectacle musical emmène les plus petits à la découverte des trésors du jardin.",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82360"
+  },
+  {
+   "n": "Ciné-surprise",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. À partir de 6 ans",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82419"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "11:00. Lectures d'albums à partir de 4 ans",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82381"
+  },
+  {
+   "n": "Dérive : concert-récit sur les traces d’Ulysse",
+   "w": "Nantes · Médiathèque Floresca Guépin",
+   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82803"
+  },
+  {
+   "n": "Enfantines",
+   "w": "Nantes · Bibliothèque de la Manufacture",
+   "d": "11:00. Lectures d'albums à partir de 18 mois",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82361"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "16:30. Lectures d'albums à partir de 4 ans",
+   "start": "2026-12-22",
+   "end": "2026-12-22",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82384"
+  },
+  {
+   "n": "Conte, raconte",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "16:30. Lectures d'albums à partir de 4 ans",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82386"
+  },
+  {
+   "n": "Les rendez-vous du jeu vidéo",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "14:00 - 17:30. En partenariat avec Nantes EsportVenez tester des jeux vidéo et défier d’autres joueurs à travers des matchs sur consoles et tablettes.Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À par",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82447"
+  },
+  {
+   "n": "Les rendez-vous du jeu vidéo",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "16:00 - 17:00. Découverte de jeux vidéo sur grand écran.Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À partir de 9 ans",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-rendez-vous-du-jeu-video-a-lisa-bresner"
+  },
+  {
+   "n": "Les rendez-vous du jeu vidéo",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "17:00 - 18:00. Découverte de jeux vidéo sur grand écran.Pour les enfants et adolescents, habitués ou curieux, dans une ambiance décontractée.À partir de 9 ans",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-rendez-vous-du-jeu-video-a-lisa-bresner"
+  },
+  {
+   "n": "Bobines pour bambins",
+   "w": "Nantes · Bibliothèque Erdre-Batignolles",
+   "d": "16:30. Projections de films faisant partie du fonds DVD de la médiathèque. De 3 à 5 ans",
+   "start": "2026-12-29",
+   "end": "2026-12-29",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=bobines-pour-bambins-erdre-batignolles"
+  },
+  {
+   "n": "La Bibliothèque joue le jeu !",
+   "w": "Nantes · Médiathèque Jacques Demy",
+   "d": "15:00 - 17:00. Découvrez en famille notre sélection de jeux.",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82451"
+  },
+  {
+   "n": "La Bibliothèque joue le jeu !",
+   "w": "Nantes · Médiathèque Luce Courville",
+   "d": "14:00 - 16:00. Jeux de société en partenariat avec la ludo-biblio Accoord Bout des PavésEn famille, venez découvrir les jeux coups de cœur des ludothécaires.",
+   "start": "2026-12-30",
+   "end": "2026-12-30",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/82450"
+  }
+ ]
 }
