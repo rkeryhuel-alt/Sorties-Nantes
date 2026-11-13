@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:13:48+00:00",
+ "generated_at": "2026-11-13T05:50:57+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -3262,6 +3262,23 @@
    "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-rendez-vous-du-jeu-video-a-lisa-bresner"
   },
   {
+   "n": "L'aventure sur un plateau - jeux de société",
+   "w": "Musée Jules Verne - 3 Rue de l'Hermitage, Nantes",
+   "d": "28 et 30 décembre Profitez d'une sélection de jeux de société au fil de votre déambulation sur le parcours de visite du musée. Le temps d’une partie, vivez l’aventure d'un parcours semé d’embûches ! Profitez de la sélection de jeux proposés",
+   "start": "2026-12-28",
+   "end": "2026-12-30",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musee-jules-verne/events/66775267_laventure-sur-un-plateau-jeux-de-societe-179268",
+   "lat": 47.201634,
+   "lon": -1.577351
+  },
+  {
    "n": "Pas si sages !",
    "w": "Cinéma Bonne Garde - 20 Rue Frère Louis, Nantes",
    "d": "28 et 29 décembre Un spectacle drôle, tendre et pétillant, où l’imaginaire devient un refuge, un terrain de jeu, un super-pouvoir. L’HISTOIRE : Il était trop de fois, une petite fille sage comme une image. Il était une fois de trop, un peti",
@@ -4463,6 +4480,75 @@
    "lieu": "mixte",
    "prix": "inconnu",
    "url": "https://openagenda.com/musees-arts-nantes/events/84654844_a-vos-bulles-811-ans",
+   "lat": 47.219278,
+   "lon": -1.547083
+  },
+  {
+   "n": "Du matin au soir (2/4 ans)",
+   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
+   "d": "21 - 30 avril 2027 Visite guidée en famille Le musée propose aux enfants de 2 à 4 ans, accompagnés de leur assistante maternelle ou de leur famille, une première découverte des espaces et des collections, tout en douceur. Depuis son grand c",
+   "start": "2027-04-21",
+   "end": "2027-04-30",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musees-arts-nantes/events/47172519_du-matin-au-soir-4822868",
+   "lat": 47.219278,
+   "lon": -1.547083
+  },
+  {
+   "n": "Match D1 Futsal - Nantes Métropole Futsal - AS Avion",
+   "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
+   "d": "Samedi 24 avril 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensi",
+   "start": "2027-04-24",
+   "end": "2027-04-24",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/32493605_match-d1-futsal-nantes-metropole-futsal-as-avion",
+   "lat": 47.204869,
+   "lon": -1.542811
+  },
+  {
+   "n": "Jeune public - \"Fourmi de pain\"",
+   "w": "Théâtre de Jeanne - 5 Rue des Salorges, Nantes",
+   "d": "25 avril - 2 mai 2027 Dans un décor qui se transforme à vue, l'histoire d'une petite fourmi qui, en cherchant à trouver sa place parmi les siens, découvre les secrets de la fabrication du pain. Conte théâtralisé et musical de Véronique Balm",
+   "start": "2027-04-25",
+   "end": "2027-05-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/contributions-evenements-culturels-nantes-et-metropole-nantaise/events/62081425_jeune-public-fourmi-de-pain",
+   "lat": 47.204696,
+   "lon": -1.5757
+  },
+  {
+   "n": "Sérigraphie (+ 6 ans)",
+   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
+   "d": "28 - 30 avril 2027 Atelier d'impression en famille Un pochoir, de l’encre, un écran, une raclette, un peu de chimie une pincée de savoir-faire sont les ingrédients principaux pour créer une sérigraphie. Procédé par excellence de l’impressio",
+   "start": "2027-04-28",
+   "end": "2027-04-30",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musees-arts-nantes/events/8598289_serigraphie-6-ans",
    "lat": 47.219278,
    "lon": -1.547083
   }
