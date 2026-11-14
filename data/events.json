@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T05:50:57+00:00",
+ "generated_at": "2026-11-14T05:40:42+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -628,24 +628,6 @@
    "lon": -1.60771
   },
   {
-   "n": "CHERS PARENTS",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "13 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
-   "lat": 47.202277,
-   "lon": -1.572656
-  },
-  {
    "n": "Le Premier Artifice",
    "w": "Parc des Chantiers - Esplanade des riveurs, Nantes",
    "d": "13 novembre - 5 décembre spectacle de cirque sous chapiteau accessible pour les familles avec une galerie de personnages désguisés en mode queer Bienvenue sous le chapiteau du Cirque Queer ! Dans ce freak show, ce cabaret débordant entre po",
@@ -713,6 +695,24 @@
    "url": "https://openagenda.com/breil-barberie/events/72854134_bourse-aux-jouets-a-la-laetitia",
    "lat": 47.231617,
    "lon": -1.578623
+  },
+  {
+   "n": "CHERS PARENTS",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "14 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Dérive : concert-récit sur les traces d’Ulysse",
@@ -2265,6 +2265,24 @@
    "lon": -1.567638
   },
   {
+   "n": "Bal Trad Polonais",
+   "w": "Atelier Dulcie-September - Place Dulcie-September (Ex-École des Beaux-Arts de Nantes), Nan",
+   "d": "Samedi 5 décembre, 20h30 Bal de musique et danse polonais pour toutes et tous ! Radio Polka est un collectif et orchestra nantais qui vous invite à la danse traditionnelle de Pologne. Venez découvrir et danser si le cœur vous en dit. On pro",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/96592353_bal-trad-polonais",
+   "lat": 47.216862,
+   "lon": -1.554524
+  },
+  {
    "n": "Ciné-surprise + goûter",
    "w": "Nantes · Médiathèque Luce Courville",
    "d": "15:00. Votez parmi une sélection de films pour celui que vous souhaitez découvrir, puis assistez à sa projection. Un goûter sera proposé à l'issue de la projection.À partir de 6 ans",
@@ -2901,24 +2919,6 @@
    "lon": -1.532593
   },
   {
-   "n": "L'homme au masque de Fer - Paul Don Ate",
-   "w": "Salle de Variétés Bonne Garde - 2 rue Paul Théry, Nantes",
-   "d": "Vendredi 18 décembre, 21h00 Dans une clairière aux lucioles, un conte immersif creuse l'énigme de l'Homme au Masque de Fer et interroge mémoires, intimité et création dans l univers d Otto. Les Coutures Fendues sont une collection de specta",
-   "start": "2026-12-18",
-   "end": "2026-12-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/52566202_lhomme-au-masque-de-fer-paul-don-ate",
-   "lat": 47.19487,
-   "lon": -1.538813
-  },
-  {
    "n": "Labo des histoires sonores",
    "w": "Nantes · Médiathèque Luce Courville",
    "d": "17:30 - 19:00. Création d'une fiction sonore. Viens imaginer une histoire, enregistre son univers sonore et laisse la magie de la fiction opérer.",
@@ -2931,6 +2931,24 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82758"
+  },
+  {
+   "n": "Maboul de Noël 2026",
+   "w": "Quai des Chaps - 378 Route de Sainte Luce, Nantes",
+   "d": "18 décembre 2026 - 2 janvier 2027 Maboul de Noël, c’est pas la fête classique de fin d’année. C’est décalé, chaleureux, drôle et simple ! Un grand chapiteau, un dancing magique, des spectacles, des concerts, des dj sets, une kermesse, du ca",
+   "start": "2026-12-18",
+   "end": "2027-01-02",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/61176543_maboul-de-noel-2026",
+   "lat": 47.246629,
+   "lon": -1.497669
   },
   {
    "n": "Soirée contes d'hiver et goûter",
@@ -3483,7 +3501,7 @@
   {
    "n": "Mères et enfants dans l’art",
    "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
-   "d": "Jeudi 7 janvier 2027, 19h15 Les conférences rebonds du musée Par Emmanuelle Berthiaud, maîtresse de conférences en histoire moderne, Université de Picardie Jules Verne d’Amiens En partenariat avec Le Chronographe et en écho à l’exposition M",
+   "d": "Jeudi 7 janvier 2027, 19h15 Les conférences du musée Par Emmanuelle Berthiaud, maîtresse de conférences en histoire moderne, Université de Picardie Jules Verne d’Amiens En partenariat avec Le Chronographe et en écho à l’exposition Maternité",
    "start": "2027-01-07",
    "end": "2027-01-07",
    "ages": [
@@ -4283,6 +4301,24 @@
    "lon": -1.547093
   },
   {
+   "n": "Odysséa Nantes 2027",
+   "w": "Cours Saint-Pierre - Cours Saint Pierre, Nantes",
+   "d": "Dimanche 21 mars 2027, 08h00 Odysséa Nantes 2027 Odysséa Nantes – Dimanche 21 mars 2027 💗 Rejoins-nous à Nantes pour une nouvelle édition d’Odysséa, un événement sportif et solidaire engagé dans la lutte contre le cancer du sein ! Au progra",
+   "start": "2027-03-21",
+   "end": "2027-03-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/sports-a-nantes/events/34700012_odyssea-nantes-2027",
+   "lat": 47.218135,
+   "lon": -1.548884
+  },
+  {
    "n": "Match D1 Futsal - Nantes Métropole Futsal - Montpellier Futsal",
    "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
    "d": "Samedi 27 mars 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensit",
@@ -4551,6 +4587,37 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/8598289_serigraphie-6-ans",
    "lat": 47.219278,
    "lon": -1.547083
+  },
+  {
+   "n": "Du matin au soir (2/4 ans)",
+   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
+   "d": "9 mai et 20 juin 2027 Visite guidée en famille Le musée propose aux enfants de 2 à 4 ans, accompagnés de leur assistante maternelle ou de leur famille, une première découverte des espaces et des collections, tout en douceur. Depuis son gran",
+   "start": "2027-05-09",
+   "end": "2027-06-20",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musees-arts-nantes/events/7142036_du-matin-au-soir-9143753",
+   "lat": 47.219278,
+   "lon": -1.547083
+  },
+  {
+   "n": "Saison LU – Théâtre – L’homme au sable",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Mardi 11 mai 2027, 19h00 Joris Mathieu & Nicolas Boudier, en compagnie de Haut et Court Joris Mathieu revient avec une adaptation du célèbre conte d'Hoffmann, L’homme au sable . Une traversée fantastique où les peurs de l'enfance fissurent ",
+   "start": "2027-05-11",
+   "end": "2027-05-11",
+   "ages": [
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/51702795_saison-lu-theatre-lhomme-au-sable",
+   "lat": 47.214041,
+   "lon": -1.543097
   }
  ]
 }
