@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:40:42+00:00",
+ "generated_at": "2026-11-14T14:02:54+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -760,24 +760,6 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82351"
   },
   {
-   "n": "Enfantines",
-   "w": "Bibliothèque de la Manufacture - 6 Cour Jules Durand 44000 Nantes",
-   "d": "Samedi 14 novembre, 11h00 Lectures d'albums à partir de 18 mois Lectures d'albums à partir de 18 mois",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/bibliotheque-municipale-de-nantes/events/33221649_enfantines-4537340",
-   "lat": 47.21998,
-   "lon": -1.536201
-  },
-  {
    "n": "Faire soi-même : atelier crochet",
    "w": "Nantes · Bibliothèque Erdre-Batignolles",
    "d": "15:00 - 17:00. Atelier crochet animé par l’association Au Petit GrenierDécouvrez les bases du crochet lors d’un atelier accessible à tous. Débutant ou simplement curieux d’apprendre une nouvelle activité créative, venez vous initier aux poi",
@@ -838,22 +820,6 @@
    "url": "https://openagenda.com/programmation-theatre-de-poche-graslin/events/17666090_jongler-avec-les-mots",
    "lat": 47.214522,
    "lon": -1.562875
-  },
-  {
-   "n": "Petite Casbah - Rencontre des cultures méditerranéennes",
-   "w": "Cinéma Bonne Garde - 20 Rue Frère Louis, Nantes",
-   "d": "Samedi 14 novembre, 14h00 Journée Cinéma et musique - un film Petite Casbah, à partir de 7 ans, les aventures d'une bande d'enfants à Alger en 1953, avec des concerts musique méditerranéenne au bar du cinéma Programme complet de l'événement",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/nantes-sud/events/78620764_petite-casbah-rencontre-des-cultures-mediterraneennes",
-   "lat": 47.195328,
-   "lon": -1.538437
   },
   {
    "n": "Rencontre des Cultures Méditerranéennes",
@@ -4618,6 +4584,21 @@
    "url": "https://openagenda.com/nantesmetropole/events/51702795_saison-lu-theatre-lhomme-au-sable",
    "lat": 47.214041,
    "lon": -1.543097
+  },
+  {
+   "n": "Immersion en orchestre",
+   "w": "Conservatoire de Nantes - 4 Rue Gaëtan Rondeau, Nantes",
+   "d": "Mercredi 12 mai 2027, 15h30 7-9 ans | Prends place au cœur d’un orchestre d’harmonie junior pour découvrir le timbre de chaque instrument et vivre l’expérience grisante du collectif ! 7-9 ans | Prends place au cœur d’un orchestre d’harmonie",
+   "start": "2027-05-12",
+   "end": "2027-05-12",
+   "ages": [
+    "6-12"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/conservatoire-de-nantes/events/77334149_immersion-en-orchestre-1748886",
+   "lat": 47.207848,
+   "lon": -1.532593
   }
  ]
 }
