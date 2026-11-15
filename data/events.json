@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:02:54+00:00",
+ "generated_at": "2026-11-15T05:44:09+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -664,148 +664,6 @@
    "lon": -1.563372
   },
   {
-   "n": "Animation enfant – Château des ducs de Bretagne",
-   "w": "Château des ducs de bretagne - musée d'histoire de Nantes - 4, place Marc Elder 44 000 — N",
-   "d": "Samedi 14 novembre, 14h30 Au Château des ducs de Bretagne, une animation est proposée aux enfants de 7 à 11 ans pour partir à la chasse aux fantômes dans les salles du château. Le samedi 14 novembre, le Château des ducs de Bretagne invite l",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "6-12"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/76726638_animation-enfant-chateau-des-ducs-de-bretagne",
-   "lat": 47.216117,
-   "lon": -1.549313
-  },
-  {
-   "n": "Bourse aux jouets à la Laetitia",
-   "w": "Centre Sportif et Culturel La Laëtitia - 49 Rue Chanoine Larose, Nantes",
-   "d": "Samedi 14 novembre, 10h00 Bourse aux jouets du CSC Laetitia de Noël 🧸🎄 GRANDE BOURSE AUX JOUETS DE NOËL À NANTES ! 🎄🧸 Vous avez des jouets, jeux de société, livres, peluches ou jeux vidéo qui ne servent plus ? 👉 Et si vous leur donniez une ",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/breil-barberie/events/72854134_bourse-aux-jouets-a-la-laetitia",
-   "lat": 47.231617,
-   "lon": -1.578623
-  },
-  {
-   "n": "CHERS PARENTS",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "14 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
-   "lat": 47.202277,
-   "lon": -1.572656
-  },
-  {
-   "n": "Dérive : concert-récit sur les traces d’Ulysse",
-   "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00. Par Morgane Labbe et Claire LaurentEmbarquez pour cette grande épopée aux accents d'aujourd'hui, où l'on croise les personnages écorchés de l'Odyssée : un cyclope blessé par les préjugés, une magicienne souillée, des sirènes en écran",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82802"
-  },
-  {
-   "n": "En Grande Pompe",
-   "w": "Nantes · Médiathèque Floresca Guépin",
-   "d": "16:00. Par la compagnie La Famille CartophilleLa mère de la famille Cartophille aime faire tourner en bourrique la banalité. Dans son boudoir, elle aime manger. Après avoir boulotté tout ce qu'il y avait dans le frigo, elle se rue inévitabl",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "payant",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82390"
-  },
-  {
-   "n": "Enfantines",
-   "w": "Nantes · Bibliothèque de la Manufacture",
-   "d": "11:00. Lectures d'albums à partir de 18 mois",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82351"
-  },
-  {
-   "n": "Faire soi-même : atelier crochet",
-   "w": "Nantes · Bibliothèque Erdre-Batignolles",
-   "d": "15:00 - 17:00. Atelier crochet animé par l’association Au Petit GrenierDécouvrez les bases du crochet lors d’un atelier accessible à tous. Débutant ou simplement curieux d’apprendre une nouvelle activité créative, venez vous initier aux poi",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=faire-soi-meme-atelier-crochet"
-  },
-  {
-   "n": "Faire soi-même : atelier tricot",
-   "w": "Nantes · Bibliothèque Erdre-Batignolles",
-   "d": "15:00 - 17:00. Atelier tricot animé par l’association Au Petit GrenierMousse, riz, blé, chaînette ou bride : découvrez les bases du tricot lors d’un atelier accessible à tous. Débutant ou simplement curieux d’apprendre une nouvelle activité",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=faire-soi-meme-atelier-tricot"
-  },
-  {
-   "n": "Hockey sur glace : les Corsaires de Nantes reçoivent Lyon au Petit Port",
-   "w": "Patinoire Olympique du Petit Port - Boulevard du Petit Port, Nantes",
-   "d": "Samedi 14 novembre, 18h00 Corsaires de Nantes vs Lyon – Hockey D1 Samedi 14 novembre à 18h, les Corsaires de Nantes reçoivent le Hockey Club de Lyon à la patinoire du Petit Port, pour la 9e journée du championnat de France de Division 1 de ",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/sports-a-nantes/events/5780388_hockey-sur-glace-les-corsaires-de-nantes-recoivent-lyon-au-petit-port",
-   "lat": 47.242786,
-   "lon": -1.555551
-  },
-  {
    "n": "Jongler avec les mots",
    "w": "Théâtre de Poche Graslin - 5 Rue Lekain, 44000 Nantes",
    "d": "14 novembre - 19 décembre, les samedis Jongler avec les mots, comme Raymond Devos. Genre : Spectacle pour enfants – À partir de 6 ans – Durée : 40 min Jongler avec les mots, comme Raymond Devos. C’est le pari d’Agnès et Louis qui parcours l",
@@ -822,47 +680,11 @@
    "lon": -1.562875
   },
   {
-   "n": "Rencontre des Cultures Méditerranéennes",
-   "w": "Cinéma Bonne Garde - 20 rue Frère Louis 44200 NANTES",
-   "d": "Samedi 14 novembre, 14h00 Née de l’envie de faire dialoguer les deux rives de la Méditerranée, la Rencontre des Cultures Méditerranéennes propose de ce que la musique et le cinéma ont en commun : raconter, relier, rassembler. Née de l’envie",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/nantes-sud/events/20326249_rencontre-des-cultures-mediterraneennes",
-   "lat": 47.195388,
-   "lon": -1.538387
-  },
-  {
-   "n": "Rencontre des cultures méditerranéennes - Musique et Cinéma",
-   "w": "Cinéma Bonne Garde - 20 rue Frère Louis 44200 NANTES",
-   "d": "Samedi 14 novembre, 14h00 Journée Cinéma et Musique : avec deux films, des concerts au bar du cinéma avec Les Luths du monde, un concert de clôture en salle de cinéma et des rencontres culturelles et musicales. Programme complet de l'événem",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/nantes-sud/events/53089356_rencontre-des-cultures-mediterraneennes-musique-et-cinema",
-   "lat": 47.195388,
-   "lon": -1.538387
-  },
-  {
-   "n": "Roller Party à l'Agronaute",
-   "w": "Agronaute (L') - Ferme urbaine - 2 rue du Sénégal - Ancien MIN, Nantes",
-   "d": "Samedi 14 novembre, 16h00 Venez patiner entre ami•e•s ou en famille au son des platines de brixi_elysse et Karim Karim. 🐣 Créneau familial de 16h à 19h - Des bénévoles du Crazy Leg Gang se relaieront toute la soirée pour aider les débutant•",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
+   "n": "CHERS PARENTS",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "15 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
    "ages": [
     "0-3",
     "3-6",
@@ -871,27 +693,9 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/nantesmetropole/events/26488377_roller-party-a-lagronaute",
-   "lat": 47.201386,
-   "lon": -1.564921
-  },
-  {
-   "n": "VENGO - Rencontre des cultures méditerranéennes",
-   "w": "Cinéma Bonne Garde - 20 rue Frère Louis 44200 NANTES",
-   "d": "Samedi 14 novembre, 14h00 Journée Cinéma et Musique : avec le film VENGO en hommage à Tony Gatlif et des concerts au bar du cinéma avec Les Luths du monde. Programme complet de l'événement : 🎼 14h – Rencontre musicale Rencontre autour du ré",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/nantes-sud/events/9176185_vengo-rencontre-des-cultures-mediterraneennes",
-   "lat": 47.195388,
-   "lon": -1.538387
+   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Match D1 Futsal - Nantes Métropole Futsal - Toulouse",
@@ -4599,6 +4403,75 @@
    "url": "https://openagenda.com/conservatoire-de-nantes/events/77334149_immersion-en-orchestre-1748886",
    "lat": 47.207848,
    "lon": -1.532593
+  },
+  {
+   "n": "À vos bulles ! (8/11 ans)",
+   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
+   "d": "15 mai - 30 juin 2027 Un atelier pour les enfants de 8 à 11 ans Fais parler les oeuvres et invente ton propre personnage, grâce à la technique du feutre sur transparent. Durée : 1h30 Ouverture des réservations le 3 mars 2027",
+   "start": "2027-05-15",
+   "end": "2027-05-15",
+   "ages": [
+    "6-12"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musees-arts-nantes/events/10253054_a-vos-bulles-811-ans-3884952",
+   "lat": 47.219278,
+   "lon": -1.547083
+  },
+  {
+   "n": "Saison LU – Théâtre – Anne Théron",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "18 et 19 mai 2027 Entre science-fiction et mémoire fragmentée, DELETE d'Anne Théron se déploie comme un conte fantastique explorant la confrontation entre intelligences artificielles et humaines. Dans un futur proche, Davos, photographe, es",
+   "start": "2027-05-18",
+   "end": "2027-05-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/88875817_saison-lu-theatre-anne-theron",
+   "lat": 47.214041,
+   "lon": -1.543097
+  },
+  {
+   "n": "Vers Les Métamorphoses",
+   "w": "Mixt, salle Super - 49 rue du Coudray, Nantes",
+   "d": "19 - 22 mai 2027 Étienne Saglio - Monstre(s) Magie nouvelle, théâtre d’ombres, marionnettes et danse : Étienne Saglio nous invite à faire l’expérience d’une immersion sensorielle troublante où l’identité se dédouble, se recompose et s’envol",
+   "start": "2027-05-19",
+   "end": "2027-05-22",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/mixt/events/24185430_vers-les-metamorphoses-7711475",
+   "lat": 47.231354,
+   "lon": -1.542835
+  },
+  {
+   "n": "Match D1 Futsal - Nantes Métropole Futsal - Goal FC",
+   "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
+   "d": "Samedi 22 mai 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensité",
+   "start": "2027-05-22",
+   "end": "2027-05-22",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/35119289_match-d1-futsal-nantes-metropole-futsal-goal-fc",
+   "lat": 47.204869,
+   "lon": -1.542811
   }
  ]
 }
