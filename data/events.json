@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:59:20+00:00",
+ "generated_at": "2026-11-17T05:51:59+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -295,22 +295,6 @@
    "lon": -1.547083
   },
   {
-   "n": "Les lundis imprimés – cycle enfants",
-   "w": "Le 20 mille - 20 Bd Jules Verne, Nantes",
-   "d": "5 octobre 2026 et 14 juin 2027 Cycle d'ateliers de l’édition artisanale : micro-édition & impression artisanale Cycle d'ateliers de l’édition artisanale : micro-édition &amp; impression artisanale Cette activité s’adresse à des enfants qui ",
-   "start": "2026-10-05",
-   "end": "2026-10-05",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/doulon-bottiere/events/53626051_les-lundis-imprimes-cycle-enfants",
-   "lat": 47.235029,
-   "lon": -1.534749
-  },
-  {
    "n": "LE BAROMÈTRE AFFECTIF",
    "w": "Restaurant intergénérationnel Malville - CCAS - 31 Rue de Malville, Nantes",
    "d": "6 octobre - 16 décembre La Cie Moradi vous invite à participer à ses nouveaux laboratoires artistiques qui explorent les thèmes de l'écologie et de l'éco-anxiété : Échanges, lectures, écritures & théâtre impro. Au RIG malville 31 rue de Mal",
@@ -343,22 +327,6 @@
    "url": "https://openagenda.com/manou-partages/events/25206020_raconte-moi-une-histoire-252211",
    "lat": 47.251501,
    "lon": -1.529379
-  },
-  {
-   "n": "Comédie familiale - \"Les parents viennent de Mars, les enfants du McDo/Chez Papa\"",
-   "w": "Théâtre de Jeanne - 5 Rue des Salorges, Nantes",
-   "d": "15 octobre 2026 - 10 juillet 2027 Un père, deux enfants : en place pour une série de scènes ordinaires qui deviennent jubilatoires lorsque l’épingle est bien placée : bébé, enfance, adolescence… À tout âge ses joies et ses galères ! Comédie",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/contributions-evenements-culturels-nantes-et-metropole-nantaise/events/21489549_comedie-familiale-les-parents-viennent-de-mars-les-enfants-du-mcdochez-papa",
-   "lat": 47.204696,
-   "lon": -1.5757
   },
   {
    "n": "Curiosité naturelle (5/7 ans)",
@@ -676,11 +644,11 @@
    "lon": -1.562875
   },
   {
-   "n": "ATELIER NUMERIQUE",
+   "n": "SEMAINE DE LA PARENTALITÉ",
    "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Lundi 16 novembre, 09h30 Initiation à l’informatique : apprivoiser la souris et le clavier - Garde d'enfants possible sous réserve de place disponible à voir au moment de votre inscription - Atelier animé par l'ATDEC Programme de la Semaine",
+   "d": "16 et 25 novembre La parentalité, sous toutes ses formes : communication, emploi, répit,... Parents d’enfants de 0 à 18 ans, venez échanger sur les thématiques du stress, de la charge mentale, de l'aide à l'emploi, et autres… Venez découvri",
    "start": "2026-11-16",
-   "end": "2026-11-16",
+   "end": "2026-11-25",
    "ages": [
     "0-3",
     "3-6",
@@ -689,7 +657,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/8627241_atelier-numerique-4227520",
+   "url": "https://openagenda.com/nantes-sud/events/25695987_semaine-de-la-parentalite-9494540",
    "lat": 47.194265,
    "lon": -1.528266
   },
@@ -741,24 +709,6 @@
    "lieu": "mixte",
    "prix": "inconnu",
    "url": "https://openagenda.com/nantes-sud/events/16397458_comment-gerer-les-conflits-entre-enfants",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "ATELIER EMPLOI - Valoriser ses compétences avec l'ATDEC",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Mercredi 18 novembre, 09h30 Et si vous mettiez vos compétences en avant ? Garde d'enfants possible sous réserve de places disponibles à voir au moment de votre inscription Programme de la Semaine Parentalité : http://urlr.me/!semaine-parent",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/10492706_atelier-emploi-valoriser-ses-competences-avec-latdec",
    "lat": 47.194265,
    "lon": -1.528266
   },
@@ -871,9 +821,9 @@
    "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=raconte-moi-une-histoire-les-sens-en-eveil"
   },
   {
-   "n": "Soirée conférence & table ronde :Santé mentale, bien-être",
+   "n": "Soirée conférence & table ronde : Santé mentale, bien-être",
    "w": "Manufacture des Tabacs - 10 bis boulevard de Stalingrad 44000 Nantes",
-   "d": "Mercredi 18 novembre, 18h30, 19h00 comment vont les enfants ? Compétences psycho-sociales : pourquoi et comment les développer ? Au programme de cette rencontre : - Un éclairage sur la santé mentale des enfants de 6 à 11 ans par le Dr Elise",
+   "d": "Mercredi 18 novembre, 18h30 comment vont les enfants ? Compétences psycho-sociales : pourquoi et comment les développer ? Au programme de cette rencontre : - Un éclairage sur la santé mentale des enfants de 6 à 11 ans par le Dr Elise Guénég",
    "start": "2026-11-18",
    "end": "2026-11-18",
    "ages": [
@@ -1166,6 +1116,24 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82353"
   },
   {
+   "n": "Inauguration du Voyage en Hiver 2026",
+   "w": "Château des Ducs de Bretagne - 4 Place Marc Elder, Nantes",
+   "d": "Samedi 21 novembre, 17h00 Inauguration du Voyage en hiver en lumière et en musique ! Le Voyage en hiver réunit, en un seul parcours partout en ville, la création d’œuvres à la découverte de Nantes et de son patrimoine, une programmation mus",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/38675248_inauguration-du-voyage-en-hiver-2026",
+   "lat": 47.216265,
+   "lon": -1.548771
+  },
+  {
    "n": "Jalousie, quand tu me tiens...",
    "w": "Bibliothèque Associative Expression Livre - 56 Rue de la Ripossière, Nantes",
    "d": "Samedi 21 novembre, 10h30 Par Expression Livre Venez avec vos enfants écouter des histoires et chanter des comptines Programme de la Semaine Parentalité : http://urlr.me/!semaine-parentalite",
@@ -1182,6 +1150,22 @@
    "url": "https://openagenda.com/nantes-sud/events/45848070_jalousie-quand-tu-me-tiens",
    "lat": 47.192413,
    "lon": -1.533768
+  },
+  {
+   "n": "Noël au Château – Grandir comme la rivière",
+   "w": "Château des Ducs de Bretagne - 4 Place Marc Elder, Nantes",
+   "d": "21 novembre 2026 - 3 janvier 2027 En fin d’année, le musée se pare des couleurs de Noël et célèbre l’arrivée de l’hiver en proposant aux familles un parcours joyeux à travers ses salles. Une histoire pour Noël, par Charlotte des Ligneris Un",
+   "start": "2026-11-21",
+   "end": "2027-01-03",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/3316523_noel-au-chateau-grandir-comme-la-riviere",
+   "lat": 47.216265,
+   "lon": -1.548771
   },
   {
    "n": "Écrans trop présents ?",
@@ -1705,6 +1689,24 @@
    "lon": -1.532593
   },
   {
+   "n": "JAZZ BRUNCH AVEC OCEAN DROPS",
+   "w": "ZAW - 27 boulevard de Stalingrad, 44000 Nantes",
+   "d": "Dimanche 29 novembre, 11h30 dans le cadre du Festival Culture Bar-Bars 🎷L es Jazz Brunchs du dimanche chez ZAW, c’est un concept dans lequel on vous propose un brunch à volonté tout en assistant à un concert live. Un moment convivial entre ",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/festival-culture-bar-bars/events/54075752_jazz-brunch-109741",
+   "lat": 47.218222,
+   "lon": -1.53927
+  },
+  {
    "n": "Jean-Jaurès fait son cirque",
    "w": "rue jean jaures - 20 rue jean jaures 44000 Nantes",
    "d": "Dimanche 29 novembre, 11h00 Pour les fêtes, la rue Jean-Jaurès fait son cirque. Les commerçants de la rue vous invitent à venir vivre une journée riche en couleurs, pleine d'émotions et de moments festifs. Pour les fêtes, Jean Jaurès fait s",
@@ -1773,6 +1775,24 @@
    "url": "https://openagenda.com/nantesmetropole/events/29440846_forum-de-laccueil-des-tout-petits-7552749",
    "lat": 47.24226,
    "lon": -1.528928
+  },
+  {
+   "n": "Le Voyage en Hiver 2026 – Pop-up de créateurs",
+   "w": "Passage Châtelaine - Accès par rue Crébillon ou rue Scribe, Nantes",
+   "d": "1 - 23 décembre Le Passage de la Châtelaine accueille de nouveau le marché des artisans et créateurs de la région nantaise avec une boutique éphémère ouverte pendant un mois. Venez découvrir une trentaine d’univers réunis en un seul lieu : ",
+   "start": "2026-12-01",
+   "end": "2026-12-23",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/17952939_le-voyage-en-hiver-2026-pop-up-de-createurs",
+   "lat": 47.213814,
+   "lon": -1.561213
   },
   {
    "n": "Contes et comptines du Breil",
@@ -2095,6 +2115,22 @@
    "lon": -1.56343
   },
   {
+   "n": "Kinusaiga, art textile japonais",
+   "w": "Le 20 mille - 20 Bd Jules Verne, Nantes",
+   "d": "Samedi 5 décembre, 15h00 [Re]Découvrez le Kinusaiga, art textile japonais Le Kinusaiga (絹彩画, littéralement « peinture en couleurs de soie ») est une technique d'art textile japonaise qui consiste à incruster des morceaux de tissu dans des r",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/doulon-bottiere/events/2967765_kinusaiga-art-textile-japonais",
+   "lat": 47.235029,
+   "lon": -1.534749
+  },
+  {
    "n": "Lecture en musique",
    "w": "Nantes · Médiathèque Luce Courville",
    "d": "11:00. En partenariat avec le Conservatoire de NantesUne lecture du conte Guillaume l’apprenti sorcier de Tomi Ungerer, mise en musique par les élèves de la classe de basson du Conservatoire de Nantes. Guillaume était l’apprenti d’un puissa",
@@ -2281,9 +2317,25 @@
    "lon": -1.556962
   },
   {
+   "n": "Ciné-concert L’Horloge Magique",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Mercredi 9 décembre, 16h30 Garden of remembrance et Jaadugar, la légende de Fatima Ladislas Starewitch – France – 1928 – 45 min. – dès 6 ans Devant une horloge magique, une petite fille s’endort et s’aventure au cœur d’une forêt enchantée. ",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/89382271_cine-concert-lhorloge-magique",
+   "lat": 47.215266,
+   "lon": -1.545666
+  },
+  {
    "n": "Festival ExtrAnimation 2026",
    "w": "Nantes et communes de la métropole - ., Nantes",
-   "d": "9 - 13 décembre Le rendez-vous incontournable pour toutes celles et ceux qui aiment et font l’animation ! ExtrAnimation, le festival animé, revient du 9 au 13 décembre 2026 pour une nouvelle édition pleine de découvertes, de plaisir et de s",
+   "d": "9 - 13 décembre Rendez-vous incontournable pour toutes celles et ceux qui aiment et font l’animation, ExtrAnimation, le festival animé, revient du 9 au 13 décembre 2026 ! Rendez-vous pour une nouvelle édition pleine de découvertes, de plais",
    "start": "2026-12-09",
    "end": "2026-12-13",
    "ages": [
@@ -2294,7 +2346,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://www.extranimation.fr/",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/70349319_festival-extranimation",
    "lat": 47.218637,
    "lon": -1.554136
   },
@@ -2373,6 +2425,42 @@
    "lon": -1.55775
   },
   {
+   "n": "Soirée contes",
+   "w": "Salle festive du Grand Blottereau - 18 Bd Auguste Peneau Nantes",
+   "d": "Jeudi 10 décembre, 20h00 Soirée contes 12 ème soirée contes de l'atelier contes de l 'AQD",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/doulon-bottiere/events/6391005_soiree-contes-4733536",
+   "lat": 47.234461,
+   "lon": -1.504193
+  },
+  {
+   "n": "Comment parler d’amour à un public jeunesse ?",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Vendredi 11 décembre, 14h30 Entre premiers émois, pudeur et grandes émotions, des auteur et autrices échangeront sur la représentation de l’amour auprès du jeune public, mais aussi... Entre premiers émois, pudeur et grandes émotions, des au",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/99683682_comment-parler-damour-a-un-public-jeunesse",
+   "lat": 47.215266,
+   "lon": -1.545666
+  },
+  {
    "n": "L'histoire de Casse-Noisette | Conte musical",
    "w": "Conservatoire de Nantes - 4 Rue Gaëtan Rondeau, Nantes",
    "d": "Vendredi 11 décembre, 20h00 8-9 ans | À l’approche de Noël, le célèbre conte musical Casse-Noisette est revisité par les élèves du département des cordes frottées (violon, alto, violoncelle et contrebasse). 6-9 ans | À l’approche de Noël, l",
@@ -2400,6 +2488,38 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82445"
+  },
+  {
+   "n": "Atelier Animation en papier découpé",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Samedi 12 décembre, 11h00 Autour de la prise de vue image par image : création, fabrication et animation en papier découpé. Autour de la prise de vue image par image : création, fabrication et animation en papier découpé. Avec Marion Auvin,",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/14977382_atelier-animation-en-papier-decoupe",
+   "lat": 47.215266,
+   "lon": -1.545666
+  },
+  {
+   "n": "Atelier Flipbook",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Samedi 12 décembre, 14h00 Autour de la prise de vue image par image : création, fabrication et animation en papier découpé. Atelier pour expérimenter des techniques de dessin animé en créant votre propre flipbook. Avec Marion Auvin, animatr",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/41442177_atelier-flipbook-8463762",
+   "lat": 47.215266,
+   "lon": -1.545666
   },
   {
    "n": "Concert de Noël - ONPL Spirituel",
@@ -2518,6 +2638,40 @@
    "lon": -1.544058
   },
   {
+   "n": "Wakfu",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Samedi 12 décembre, 15h00 À l’époque du Wakfu, au milieu du chaos engendré par Ogrest, Yugo, un enfant aux origines mystérieuses et doté de pouvoirs magiques, part à la recherche de sa vraie famille. À l’époque du Wakfu, au milieu du chaos ",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/34263248_wakfu",
+   "lat": 47.215266,
+   "lon": -1.545666
+  },
+  {
+   "n": "Atelier Création d’une marionnette",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "Dimanche 13 décembre, 15h00 Après une présentation des étapes de construction d’une marionnette de film en stop motion, à vous de fabriquer un élément comme une sculpture de tête ou une armature de bras. Après une présentation des étapes de",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/62364430_atelier-creation-dune-marionnette",
+   "lat": 47.215266,
+   "lon": -1.545666
+  },
+  {
    "n": "Dessiner c'est jouer ! (+ 6 ans)",
    "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
    "d": "13 décembre 2026 - 20 juin 2027, certains dimanches Venez jouer en famille au musée. En famille, venez jouer et dessiner face aux oeuvres. Relevez les défis, crayon en main, accompagnés d’une médiatrice. Durée : 1h",
@@ -2534,6 +2688,22 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/23072549_dessiner-cest-jouer-6-ans-3384147",
    "lat": 47.219278,
    "lon": -1.547083
+  },
+  {
+   "n": "Liz et l’oiseau bleu",
+   "w": "Cinéma Pathé Nantes - 12 Place du Commerce, Nantes",
+   "d": "Dimanche 13 décembre, 11h00 Figure majeure de l’animation japonaise contemporaine, Naoko Yamada révèle un art rare de l’émotion par le geste et le silence. Elle est l’invitée exceptionnelle d’ExtrAnimation. Figure majeure de l’animation jap",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/43185234_liz-et-loiseau-bleu",
+   "lat": 47.213405,
+   "lon": -1.558262
   },
   {
    "n": "Saison LU – Théâtre – Le Voyage de Kristoffer",
@@ -2648,6 +2818,22 @@
    "url": "https://openagenda.com/nantes-centre-ville/events/51667684_lecture-gouter-en-famille",
    "lat": 47.211557,
    "lon": -1.566793
+  },
+  {
+   "n": "Super Renard",
+   "w": "Maison de quartier Doulon - ACCOORD - 1 Rue de la Basse Chênaie, Nantes",
+   "d": "Mercredi 16 décembre, 17h30 Spectacle pour enfants Super Renard c'est un concert de chansons pour enfants qui convient bien sûr à toute la famille aussi. Un mélange de dynamisme, de poésie, de participation, d'humour et de fantaisie. Un set",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/accoord/events/8420214_super-renard-691863",
+   "lat": 47.236597,
+   "lon": -1.50812
   },
   {
    "n": "Dernier appel - Gaspard & Gustave - Concert familles - Saison ONPL",
@@ -4432,76 +4618,6 @@
    "url": "https://openagenda.com/mixt/events/24185430_vers-les-metamorphoses-7711475",
    "lat": 47.231354,
    "lon": -1.542835
-  },
-  {
-   "n": "Match D1 Futsal - Nantes Métropole Futsal - Goal FC",
-   "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
-   "d": "Samedi 22 mai 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensité",
-   "start": "2027-05-22",
-   "end": "2027-05-22",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/35119289_match-d1-futsal-nantes-metropole-futsal-goal-fc",
-   "lat": 47.204869,
-   "lon": -1.542811
-  },
-  {
-   "n": "Fête de la Musique à la Cathédrale",
-   "w": "Cathédrale Saint-Pierre et Saint-Paul de Nantes - Place Saint-Pierre Nantes",
-   "d": "Vendredi 18 juin 2027, 19h00 Rendez-vous traditionnel de fin d’année, la Fête de la Musique à la Cathédrale est le rendez-vous des chorales scolaires Rendez-vous traditionnel de fin d’année, la Fête de la Musique à la Cathédrale est le rend",
-   "start": "2027-06-18",
-   "end": "2027-06-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/musique-sacree-cathedrale-de-nantes/events/53210674_fete-de-la-musique-a-la-cathedrale",
-   "lat": 47.218171,
-   "lon": -1.551286
-  },
-  {
-   "n": "L'homme au masque de Fer - Paul Don Ate",
-   "w": "Salle de Variétés Bonne Garde - 2 rue Paul Théry, Nantes",
-   "d": "Vendredi 17 septembre 2027, 21h00 Dans une clairière aux lucioles, un conte immersif creuse l'énigme de l'Homme au Masque de Fer et interroge mémoires, intimité et création dans l univers d Otto. Les Coutures Fendues sont une collection de ",
-   "start": "2027-09-17",
-   "end": "2027-09-17",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/52566202_lhomme-au-masque-de-fer-paul-don-ate",
-   "lat": 47.19487,
-   "lon": -1.538813
-  },
-  {
-   "n": "Monsieur Malaussène au théâtre",
-   "w": "Théâtre de la rue de belleville - 19 rue de Belleville, Nantes",
-   "d": "Vendredi 31 décembre 2027, 17h00 Benjamin Malaussène va être papa. Il est en proie à de nombreuses interrogations qu’il décide de partager avec le futur bébé. Un tête-à-tête entre un père et son fils. Une fable sur la vie. «Les gosses, dis-",
-   "start": "2027-12-31",
-   "end": "2027-12-31",
-   "ages": [
-    "0-3",
-    "3-6"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/dervallieres-zola/events/66133167_monsieur-malaussene-au-theatre-9705260",
-   "lat": 47.211704,
-   "lon": -1.574857
   }
  ]
 }
