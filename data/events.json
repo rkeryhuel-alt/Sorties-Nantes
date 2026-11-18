@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T05:51:59+00:00",
+ "generated_at": "2026-11-18T05:54:18+00:00",
  "events": [
   {
    "n": "Animation enfants – Château des ducs de Bretagne",
@@ -677,42 +677,6 @@
    "lon": -1.528266
   },
   {
-   "n": "Atelier : et si je créais mon entreprise",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Mardi 17 novembre, 09h30 Par ADIE Quelles sont les étapes et les solutions d'accompagnement possibles ? Animé par Élodie BLAIS garde d'enfants possible sous réserve de places disponible a voir au moment de votre inscriptions Programme de la",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/69647578_et-si-je-creais-mon-entreprise",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "Comment gérer les conflits entre enfants",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Mardi 17 novembre, 14h15 Par Le Lieu Utile À partir de situations concrètes de votre quotidien de parents, l'animatrice vous fera découvrir des techniques d'écoute, de résolution de conflits, de gestion des émotions qui permettent d'apaiser",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/16397458_comment-gerer-les-conflits-entre-enfants",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "Atelier couture / Pique-nique",
    "w": "Le Ripaillon - 31 Rue Esnoul des Châtelets, 44200 Nantes",
    "d": "Mercredi 18 novembre, 12h00 Réparons nos vêtements ! À ta pause déjeuner, avec ou sans enfants, viens apprendre à réparer vêtements et accessoires textiles: faire un ourlet, changer une fermeture, coudre un bouton...etc Apporte un sandwich,",
@@ -1166,6 +1130,20 @@
    "url": "https://openagenda.com/nantesmetropole/events/3316523_noel-au-chateau-grandir-comme-la-riviere",
    "lat": 47.216265,
    "lon": -1.548771
+  },
+  {
+   "n": "Racontez-nous Bellevue",
+   "w": "Nantes · Médiathèque Lisa Bresner",
+   "d": "14:00 - 17:00. Atelier par les Arpenteurs du quartier de BellevueVenez raconter, imaginer, en mots et en images des histoires vraies ou pas sur le quartier, avec comme toile de fond le Bellevue d’hier et d’aujourd’hui. À l'issue de ces atel",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "int",
+   "prix": "gratuit",
+   "url": "https://metropole.nantes.fr/infonantes/agenda/84918"
   },
   {
    "n": "Écrans trop présents ?",
@@ -2742,7 +2720,7 @@
   {
    "n": "Contes musicaux",
    "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00. En partenariat avec le Conservatoire~BellevueLes classes de piano et de percussion du Conservatoire vont vous faire voyager d’un conte à l’autre ! Une lecture musicale conviviale pour toute la famille en attendant les fêtes.À partir ",
+   "d": "16:00. En partenariat avec le Conservatoire~BellevueLes classes de percussion du Conservatoire vont vous faire voyager d’un conte à l’autre ! Une lecture musicale conviviale pour toute la famille en attendant les fêtes.À partir de 5 ans",
    "start": "2026-12-16",
    "end": "2026-12-16",
    "ages": [
