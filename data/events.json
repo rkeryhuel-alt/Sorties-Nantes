@@ -1,22 +1,6 @@
 {
- "generated_at": "2026-11-18T05:54:18+00:00",
+ "generated_at": "2026-11-19T05:53:59+00:00",
  "events": [
-  {
-   "n": "Animation enfants – Château des ducs de Bretagne",
-   "w": "Château des ducs de bretagne - musée d'histoire de Nantes - 4, place Marc Elder 44 000 — N",
-   "d": "2 septembre - 18 novembre Au Château des ducs de Bretagne, une animation est proposée aux enfants de 4 à 6 ans pour partir à la recherche d’œufs de dragons cachés dans le musée. Le Château des ducs de Bretagne propose aux enfants de 4 à 6 a",
-   "start": "2026-09-02",
-   "end": "2026-09-02",
-   "ages": [
-    "3-6",
-    "6-12"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/67479279_animation-enfants-tout-feu-tout-flamme",
-   "lat": 47.216117,
-   "lon": -1.549313
-  },
   {
    "n": "Les mercredis street art !",
    "w": "Le 20 mille - 20 Bd Jules Verne, Nantes",
@@ -677,129 +661,6 @@
    "lon": -1.528266
   },
   {
-   "n": "Atelier couture / Pique-nique",
-   "w": "Le Ripaillon - 31 Rue Esnoul des Châtelets, 44200 Nantes",
-   "d": "Mercredi 18 novembre, 12h00 Réparons nos vêtements ! À ta pause déjeuner, avec ou sans enfants, viens apprendre à réparer vêtements et accessoires textiles: faire un ourlet, changer une fermeture, coudre un bouton...etc Apporte un sandwich,",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/68390924_atelier-couture-pique-nique-8397560",
-   "lat": 47.195324,
-   "lon": -1.543261
-  },
-  {
-   "n": "Conte, raconte",
-   "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00. Lectures d'albums à partir de 4 ans",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82377"
-  },
-  {
-   "n": "Enfantines",
-   "w": "Nantes · Bibliothèque Erdre-Batignolles",
-   "d": "11:00. Lectures d'albums à partir de 18 mois",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/83199"
-  },
-  {
-   "n": "Enfantines",
-   "w": "Nantes · Médiathèque Luce Courville",
-   "d": "10:45. Lectures d'albums à partir de 18 mois",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82352"
-  },
-  {
-   "n": "Les mercredis culturels : atelier théâtre",
-   "w": "Nantes · Bibliothèque Erdre-Batignolles",
-   "d": "15:00. En partenariat avec la compagnie PaQ’la LuneÀ partir d’un album et à travers différents jeux, un atelier pour découvrir le théâtre en s’amusant.",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "6-12"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=les-mercredis-culturels-pour-les-7-9-ans"
-  },
-  {
-   "n": "PORTES OUVERTES",
-   "w": "Lieu Accueil Enfants Parents \"Au 104\" - 104 Rue Saint Jacques, Nantes",
-   "d": "Mercredi 18 novembre, 09h00, 15h00 Par LAEP Le Lieu Accueil Enfants Parents ouvre ses portes, un lieu où chacun est accueilli de façon anonyme et gratuite le temps d’un café pendant que son enfant explore un espace dédié aux 0-5 ans. Progra",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/nantes-sud/events/52515899_portes-ouvertes-983143",
-   "lat": 47.195903,
-   "lon": -1.537548
-  },
-  {
-   "n": "Raconte-moi une histoire",
-   "w": "Nantes · Médiathèque Jacques Demy",
-   "d": "10:30. Des histoires en mouvement, en musique, à toucher, pour l’éveil des sens des tout-petits.De 1 à 3 ans",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "0-3",
-    "3-6"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://formulaires.eservices-metropole.nantes.fr/bibliotheque/s-inscrire-a-une-animation-ma-bibliotheque/?activite=raconte-moi-une-histoire-les-sens-en-eveil"
-  },
-  {
-   "n": "Soirée conférence & table ronde : Santé mentale, bien-être",
-   "w": "Manufacture des Tabacs - 10 bis boulevard de Stalingrad 44000 Nantes",
-   "d": "Mercredi 18 novembre, 18h30 comment vont les enfants ? Compétences psycho-sociales : pourquoi et comment les développer ? Au programme de cette rencontre : - Un éclairage sur la santé mentale des enfants de 6 à 11 ans par le Dr Elise Guénég",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "ages": [
-    "6-12"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/bien-grandir-a-nantes/events/48573246_soiree-conference-and-table-ronde-sante-mentale-bien-etre",
-   "lat": 47.219408,
-   "lon": -1.53538
-  },
-  {
    "n": "Au-delà du corps, devenir mère : la matrescence",
    "w": "Maison de quartier Bottière - 147 route de Sainte-Luce, Nantes",
    "d": "Jeudi 19 novembre, 14h00 Pause Partum : Atelier futures et jeunes mamans - Association Trust Groupe de parole pour les futures et jeunes mamans sur les bouleversements de la maternité ; animé par Marie Mahé-Poulin, Psychologue et co-autrice",
@@ -954,6 +815,24 @@
    "lon": -1.528266
   },
   {
+   "n": "Inauguration du Voyage en Hiver 2026",
+   "w": "Château des Ducs de Bretagne - 4 Place Marc Elder, Nantes",
+   "d": "Vendredi 20 novembre, 19h00 Inauguration du Voyage en hiver en lumière et en musique ! Le Voyage en hiver réunit, en un seul parcours partout en ville, la création d’œuvres à la découverte de Nantes et de son patrimoine, une programmation m",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/38675248_inauguration-du-voyage-en-hiver-2026",
+   "lat": 47.216265,
+   "lon": -1.548771
+  },
+  {
    "n": "La Bibliothèque joue le jeu !",
    "w": "Nantes · Médiathèque Lisa Bresner",
    "d": "16:00 - 18:00. Venez tester en famille notre sélection de jeux de société pour tous les âges.",
@@ -1030,7 +909,7 @@
    "lon": -1.549313
   },
   {
-   "n": "Animation enfants – Château des ducs de Bretagne",
+   "n": "Animation enfants – Ça sent bon ici !",
    "w": "Château des ducs de bretagne - musée d'histoire de Nantes - 4, place Marc Elder 44 000 — N",
    "d": "21 novembre 2026 - 2 janvier 2027 Au Château des ducs de Bretagne, les enfants profitent d’une visite sensorielle de Noël pour découvrir le musée autrement. Pendant les fêtes de Noël, le Château des ducs de Bretagne propose aux enfants une ",
    "start": "2026-11-21",
@@ -1078,24 +957,6 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82353"
-  },
-  {
-   "n": "Inauguration du Voyage en Hiver 2026",
-   "w": "Château des Ducs de Bretagne - 4 Place Marc Elder, Nantes",
-   "d": "Samedi 21 novembre, 17h00 Inauguration du Voyage en hiver en lumière et en musique ! Le Voyage en hiver réunit, en un seul parcours partout en ville, la création d’œuvres à la découverte de Nantes et de son patrimoine, une programmation mus",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantesmetropole/events/38675248_inauguration-du-voyage-en-hiver-2026",
-   "lat": 47.216265,
-   "lon": -1.548771
   },
   {
    "n": "Jalousie, quand tu me tiens...",
@@ -1549,6 +1410,24 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82392"
   },
   {
+   "n": "Les Journées polyglottes",
+   "w": "Bibliothèque Emilienne Leroux - 21 Rue Charles Roger, Nantes",
+   "d": "28 novembre - 5 décembre La bibliothèque associative Emilienne-Leroux met à l'honneur les langues et cultures du monde du 28 novembre au 5 décembre 2026. La bibliothèque associative Emilienne-Leroux, située dans le quartier des Dervallières",
+   "start": "2026-11-28",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/88464730_les-journees-polyglottes-8332015",
+   "lat": 47.22307,
+   "lon": -1.597651
+  },
+  {
    "n": "Match D1 Futsal - Nantes Métropole Futsal - Etoile Lavaloise",
    "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
    "d": "Samedi 28 novembre, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensité",
@@ -1897,7 +1776,7 @@
   {
    "n": "Une Histoire autrichienne",
    "w": "Mixt, salle Nova - 49 rue du Coudray, Nantes",
-   "d": "2 - 5 décembre Compagnie les Maladroits Les montagnes autrichiennes, un grand-oncle adoré, des souvenirs d’enfance, et des archives qui troublent tout. Arno Wögerbauer interroge un passé enfoui. En maniant le récit, le papier et l’allumette",
+   "d": "2 - 5 décembre Compagnie Les Maladroits Les montagnes autrichiennes, un grand-oncle adoré, des souvenirs d’enfance, et des archives qui troublent tout. Arno Wögerbauer interroge un passé enfoui. En maniant le récit, le papier et l’allumette",
    "start": "2026-12-02",
    "end": "2026-12-05",
    "ages": [
@@ -2749,6 +2628,24 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82382"
   },
   {
+   "n": "Fest'Hiver : Malakoff en fête",
+   "w": "Maison de quartier des Haubans - 1 Bis Boulevard de Berlin, Nantes",
+   "d": "Mercredi 16 décembre, 15h00 Malakoff fête l'hiver ! La Maison des Haubans vous accueille tout l'après-midi et vous propose des ateliers créatifs, des spectacles, une friperie, des jeux, du goûter et même de la soupe. Venez vous amuser (et v",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/malakoff-saint-donatien/events/25748760_festhiver-malakoff-en-fete",
+   "lat": 47.214093,
+   "lon": -1.530347
+  },
+  {
    "n": "J'étais parti·e, pardon (dans un autre univers)",
    "w": "Maison de quartier La Mano - 3 Rue Eugène Thomas, Nantes",
    "d": "Mercredi 16 décembre, 15h00 Alors qu’elle participait à la création d’une pièce de théâtre, une classe de CM2 a disparu de la surface de la terre, purement et simplement... vers un monde parallèle. Un spectacle du Collectif MindThe Gap Alor",
@@ -3227,7 +3124,7 @@
    "lon": -1.538437
   },
   {
-   "n": "Arrête tes salade !",
+   "n": "Arrête tes salades !",
    "w": "TNT - Terrain Neutre Théâtre - 11 Allée de la Maison Rouge, Nantes",
    "d": "29 - 31 décembre Dans ce jardin, tout pousse même les histoires ! Cinq histoires, cinq graines d’aventure semées entre les allées du potager, accompagnées d’un alto qui fait chanter le vent et danser la pluie. Dans ce jardin, tout pousse mê",
    "start": "2026-12-29",
@@ -4596,6 +4493,24 @@
    "url": "https://openagenda.com/mixt/events/24185430_vers-les-metamorphoses-7711475",
    "lat": 47.231354,
    "lon": -1.542835
+  },
+  {
+   "n": "Match D1 Futsal - Nantes Métropole Futsal - Goal FC",
+   "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
+   "d": "Samedi 22 mai 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensité",
+   "start": "2027-05-22",
+   "end": "2027-05-22",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/35119289_match-d1-futsal-nantes-metropole-futsal-goal-fc",
+   "lat": 47.204869,
+   "lon": -1.542811
   }
  ]
 }
