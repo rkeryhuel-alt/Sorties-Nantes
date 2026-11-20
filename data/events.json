@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:53:59+00:00",
+ "generated_at": "2026-11-20T05:55:19+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -661,40 +661,6 @@
    "lon": -1.528266
   },
   {
-   "n": "Au-delà du corps, devenir mère : la matrescence",
-   "w": "Maison de quartier Bottière - 147 route de Sainte-Luce, Nantes",
-   "d": "Jeudi 19 novembre, 14h00 Pause Partum : Atelier futures et jeunes mamans - Association Trust Groupe de parole pour les futures et jeunes mamans sur les bouleversements de la maternité ; animé par Marie Mahé-Poulin, Psychologue et co-autrice",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "ages": [
-    "0-3",
-    "3-6"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/doulon-bottiere/events/29844157_au-dela-du-corps-devenir-mere-la-matrescence",
-   "lat": 47.236023,
-   "lon": -1.518628
-  },
-  {
-   "n": "Ptit déj",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Jeudi 19 novembre, 09h30 Par l'ACCOORD Parents, grands-parents : quelles sont vos questions pour mieux accompagner vos enfants ? Quels sont vos besoins de soutien ? Venez en discuter autour d'un café. Programme de la Semaine Parentalité : h",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/25439794_ptit-dej-4015537",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "ATELIER, Parcours motricité",
    "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
    "d": "Vendredi 20 novembre, 09h30 Par l'ACCORD Un parcours de motricité XXL&nbsp;pour rouler, sauter, ramper, glisser, se faufiler en toute sécurité&nbsp;! Les enfants sont sous la responsabilité de leur accompagnateur. 1h maxi par famille, dans ",
@@ -859,6 +825,24 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82756"
+  },
+  {
+   "n": "Le Noël des commerçants",
+   "w": "Nantes (Centre ville) - Centre Ville, Nantes",
+   "d": "20 novembre 2026 - 3 janvier 2027 Un centre-ville, mille idées de cadeaux ! Du 20 novembre au 3 janvier, faites le plein d’animations, de magie et d’idées cadeaux ! ⭐ Spectacle nocturne « Légendaires » : un rendez-vous à ne pas manquer ! 👕 ",
+   "start": "2026-11-20",
+   "end": "2027-01-03",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/5801254_le-noel-des-commercants-900406",
+   "lat": 47.21484,
+   "lon": -1.557937
   },
   {
    "n": "Salon 2026 du lycéen et de l'étudiant",
@@ -1140,6 +1124,23 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82378"
+  },
+  {
+   "n": "Contes de Noël – Librairie Les Enfants Terribles",
+   "w": "Librairie Les Enfants Terribles - 17 Rue de Verdun, Nantes",
+   "d": "Mercredi 25 novembre, 16h00 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nan",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/96659287_contes-de-noel-librairie-les-enfants-terribles",
+   "lat": 47.217408,
+   "lon": -1.551902
   },
   {
    "n": "Exposition photo : Prête-moi ton objet et Autobâti",
@@ -1652,6 +1653,40 @@
    "lon": -1.561213
   },
   {
+   "n": "Contes de Noël – Librairie La Géothèque",
+   "w": "Librairie la Géothèque - 14 rue Racine, Nantes",
+   "d": "Mercredi 2 décembre, 15h15 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nant",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/44482517_contes-de-noel-librairie-la-geotheque",
+   "lat": 47.213997,
+   "lon": -1.564409
+  },
+  {
+   "n": "Contes de Noël – Librairie Siloë",
+   "w": "Librairie Siloë - 3 rue Général Leclerc de Hauteclocque, Nantes",
+   "d": "Mercredi 2 décembre, 16h45 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nant",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/46766485_contes-de-noel-librairie-siloe",
+   "lat": 47.21798,
+   "lon": -1.552258
+  },
+  {
    "n": "Contes et comptines du Breil",
    "w": "Nantes · Bibliothèques de Nantes",
    "d": "10:00. En partenariat avec la ludothèque Accoord du Breil. Lectures d'histoires à partir de 4 ans.Renseignements à la bibliothèque du Breil-Malville",
@@ -1776,7 +1811,7 @@
   {
    "n": "Une Histoire autrichienne",
    "w": "Mixt, salle Nova - 49 rue du Coudray, Nantes",
-   "d": "2 - 5 décembre Compagnie Les Maladroits Les montagnes autrichiennes, un grand-oncle adoré, des souvenirs d’enfance, et des archives qui troublent tout. Arno Wögerbauer interroge un passé enfoui. En maniant le récit, le papier et l’allumette",
+   "d": "2 - 5 décembre Compagnie les Maladroits Les montagnes autrichiennes, un grand-oncle adoré, des souvenirs d’enfance, et des archives qui troublent tout. Arno Wögerbauer interroge un passé enfoui. En maniant le récit, le papier et l’allumette",
    "start": "2026-12-02",
    "end": "2026-12-05",
    "ages": [
@@ -2190,6 +2225,40 @@
    "lon": -1.545666
   },
   {
+   "n": "Contes de Noël – Librairie Coiffard",
+   "w": "Librairie Coiffard - 7 Rue de la Fosse, Nantes",
+   "d": "Mercredi 9 décembre, 15h15 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nant",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/3088564_contes-de-noel-librairie-coiffard",
+   "lat": 47.213787,
+   "lon": -1.558725
+  },
+  {
+   "n": "Contes de Noël – Librairie Durance",
+   "w": "Librairie Durance - 4 Allée d'Orléans, Nantes",
+   "d": "Mercredi 9 décembre, 16h45 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nant",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/72423142_contes-de-noel-librairie-durance",
+   "lat": 47.21536,
+   "lon": -1.556602
+  },
+  {
    "n": "Festival ExtrAnimation 2026",
    "w": "Nantes et communes de la métropole - ., Nantes",
    "d": "9 - 13 décembre Rendez-vous incontournable pour toutes celles et ceux qui aiment et font l’animation, ExtrAnimation, le festival animé, revient du 9 au 13 décembre 2026 ! Rendez-vous pour une nouvelle édition pleine de découvertes, de plais",
@@ -2595,6 +2664,23 @@
    "url": "https://openagenda.com/mixt/events/37055026_capra-une-chevre-3778821",
    "lat": 47.231354,
    "lon": -1.542835
+  },
+  {
+   "n": "Contes de Noël – Librairie Aladin",
+   "w": "Librairie Aladin - 8 rue Mercoeur, Nantes",
+   "d": "Mercredi 16 décembre, 16h00 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nan",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/93094925_contes-de-noel-librairie-aladin",
+   "lat": 47.217486,
+   "lon": -1.560198
   },
   {
    "n": "Contes musicaux",
@@ -3505,6 +3591,24 @@
    "lieu": "mixte",
    "prix": "inconnu",
    "url": "https://openagenda.com/musees-arts-nantes/events/66106861_le-voyage-de-laszlo",
+   "lat": 47.219278,
+   "lon": -1.547083
+  },
+  {
+   "n": "Les incontournables (+ 7 ans)",
+   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
+   "d": "17 janvier - 27 juin 2027, certains dimanches Une visite guidée à faire en famille Rejoignez-nous pour une visite adaptée aux grands et aux petits à la découverte des tableaux de Georges de la Tour, Ingres, Claude Monet, etc. Durée : 1h Ouv",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/musees-arts-nantes/events/92958724_les-incontournables-7-ans-3239864",
    "lat": 47.219278,
    "lon": -1.547083
   },
@@ -4457,60 +4561,6 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/10253054_a-vos-bulles-811-ans-3884952",
    "lat": 47.219278,
    "lon": -1.547083
-  },
-  {
-   "n": "Saison LU – Théâtre – Anne Théron",
-   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
-   "d": "18 et 19 mai 2027 Entre science-fiction et mémoire fragmentée, DELETE d'Anne Théron se déploie comme un conte fantastique explorant la confrontation entre intelligences artificielles et humaines. Dans un futur proche, Davos, photographe, es",
-   "start": "2027-05-18",
-   "end": "2027-05-19",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantesmetropole/events/88875817_saison-lu-theatre-anne-theron",
-   "lat": 47.214041,
-   "lon": -1.543097
-  },
-  {
-   "n": "Vers Les Métamorphoses",
-   "w": "Mixt, salle Super - 49 rue du Coudray, Nantes",
-   "d": "19 - 22 mai 2027 Étienne Saglio - Monstre(s) Magie nouvelle, théâtre d’ombres, marionnettes et danse : Étienne Saglio nous invite à faire l’expérience d’une immersion sensorielle troublante où l’identité se dédouble, se recompose et s’envol",
-   "start": "2027-05-19",
-   "end": "2027-05-22",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/mixt/events/24185430_vers-les-metamorphoses-7711475",
-   "lat": 47.231354,
-   "lon": -1.542835
-  },
-  {
-   "n": "Match D1 Futsal - Nantes Métropole Futsal - Goal FC",
-   "w": "Complexe Sportif Mangin Beaulieu - Rue des Boires, Nantes",
-   "d": "Samedi 22 mai 2027, 20h00 Rencontre de D1 Futsal opposant le Nantes Métropole Futsal à son adversaire du soir. Venez découvrir le spectacle du futsal de haut niveau à Mangin Beaulieu et encourager l'équipe nantaise ! Venez vivre l'intensité",
-   "start": "2027-05-22",
-   "end": "2027-05-22",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/35119289_match-d1-futsal-nantes-metropole-futsal-goal-fc",
-   "lat": 47.204869,
-   "lon": -1.542811
   }
  ]
 }
