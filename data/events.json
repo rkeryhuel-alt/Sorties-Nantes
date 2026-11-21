@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:55:19+00:00",
+ "generated_at": "2026-11-21T05:48:07+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -661,93 +661,6 @@
    "lon": -1.528266
   },
   {
-   "n": "ATELIER, Parcours motricité",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Vendredi 20 novembre, 09h30 Par l'ACCORD Un parcours de motricité XXL&nbsp;pour rouler, sauter, ramper, glisser, se faufiler en toute sécurité&nbsp;! Les enfants sont sous la responsabilité de leur accompagnateur. 1h maxi par famille, dans ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/81897458_atelier-parcours-motricite",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "CHERS PARENTS",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "20 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
-   "lat": 47.202277,
-   "lon": -1.572656
-  },
-  {
-   "n": "Cap Emploi",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Vendredi 20 novembre, 09h30 par l'ATDEC - Boostez votre recherche d’emploi et repartez avec un CV qui vous ressemble ! - garde d'enfants possible sous reserve de place disponible a voir au moment de votre inscriptions Programme de la Semain",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/78380249_atelier-emploi-9710218",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "Chorale parent-enfant à l'Abord'âge",
-   "w": "Lieu Accueil Enfants Parents A l'Abord'âge - Le café des enfants - 94 Rue de la Ville en P",
-   "d": "Vendredi 20 novembre, 17h00 Une chorale où les fausses notes sont les bienvenues ! Jule revient avec ses chansons pour petit.e.s et grand.e.s! Nul besoin de savoir chanter, il suffit d'avoir envie de tester des choses avec sa voix et de par",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/malakoff-saint-donatien/events/66811958_chorale-parent-enfant-a-labordage-4841285",
-   "lat": 47.225255,
-   "lon": -1.529895
-  },
-  {
-   "n": "Conférence : Améliorer notre relation avec nos enfants",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Vendredi 20 novembre, 18h30 prévention des violences éducative ordinaire Chaque jour, nos attitudes peuvent soutenir les besoins de sécurité, d’attachement, et de bon développement de l'enfant et de l’adolescent. Et ça marche&nbsp;! Confére",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/30534886_conference-securiser-et-accompagner-enfants-et-ado",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "Enfantillages",
    "w": "Théâtre du Cyclope - 82 rue du Maréchal Joffre, Nantes",
    "d": "20 et 21 novembre Enfantillages, c’est l’histoire de ELLE et LUI, parents à la dérive, qui n’arrivent plus à composer l’un avec l’autre. Barbie et Ken sont beaux, ils mènent une vie parfaite. Tout est lisse mais tout semble faux. Derrière l",
@@ -761,70 +674,6 @@
    "url": "https://openagenda.com/malakoff-saint-donatien/events/50584395_enfantillage",
    "lat": 47.302268,
    "lon": -1.558045
-  },
-  {
-   "n": "GOÛTER - Atelier d’expression autour des droits des enfants",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Vendredi 20 novembre, 16h30 Par le Lieu Utile Dessins, collages, écritures, libre expression des enfants sur leurs droits. Présence des parents obligatoire Programme de la Semaine Parentalité : http://urlr.me/!semaine-parentalite",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/99336612_gouter-atelier-dexpression-autour-des-droits-des-enfants",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "Inauguration du Voyage en Hiver 2026",
-   "w": "Château des Ducs de Bretagne - 4 Place Marc Elder, Nantes",
-   "d": "Vendredi 20 novembre, 19h00 Inauguration du Voyage en hiver en lumière et en musique ! Le Voyage en hiver réunit, en un seul parcours partout en ville, la création d’œuvres à la découverte de Nantes et de son patrimoine, une programmation m",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantesmetropole/events/38675248_inauguration-du-voyage-en-hiver-2026",
-   "lat": 47.216265,
-   "lon": -1.548771
-  },
-  {
-   "n": "La Bibliothèque joue le jeu !",
-   "w": "Nantes · Médiathèque Lisa Bresner",
-   "d": "16:00 - 18:00. Venez tester en famille notre sélection de jeux de société pour tous les âges.",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82442"
-  },
-  {
-   "n": "Labo des histoires sonores",
-   "w": "Nantes · Médiathèque Luce Courville",
-   "d": "17:30 - 19:00. Création d'une fiction sonore. Viens imaginer une histoire, enregistre son univers sonore et laisse la magie de la fiction opérer.",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "ages": [
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82756"
   },
   {
    "n": "Le Noël des commerçants",
@@ -909,6 +758,24 @@
    "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/97712295_animation-enfants-chateau-des-ducs-de-bretagne",
    "lat": 47.216117,
    "lon": -1.549313
+  },
+  {
+   "n": "CHERS PARENTS",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "21 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Enfantines",
@@ -1091,6 +958,24 @@
    "url": "https://openagenda.com/nantes-sud/events/39973741_venez-decouvrir-les-metiers-des-services-a-la-personne-et-dassistante-maternelle",
    "lat": 47.194265,
    "lon": -1.528266
+  },
+  {
+   "n": "UNFUCKABLES",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "24 novembre 2026 - 11 mai 2027 Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patriarcat. Parce qu'elles ont des choses à lui dire. Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patri",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/theatre100noms/events/45618011_unfuckables-6292474",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Atelier sur le processus du stress",
@@ -2864,6 +2749,24 @@
    "lon": -1.535333
   },
   {
+   "n": "1, 2, 3, collectionnez ! – Visite familles au musée Dobrée",
+   "w": "Musée Thomas-Dobrée - 18 Rue Voltaire, Nantes",
+   "d": "19 décembre 2026 - 28 mars 2027 Partez en famille sur les traces des grands collectionneurs du musée Dobrée ! Munis d’un passeport factice, relevez des défis, jouez, dessinez, observez et collectionnez les tampons au fil des salles. À la fi",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/45625653_1-2-3-collectionnez-visite-familles-au-musee-dobree",
+   "lat": 47.212636,
+   "lon": -1.566575
+  },
+  {
    "n": "Atelier \"Les créatures cachées du sapin\" par Joel Janse van Vuuren à Bonus",
    "w": "Collectif Bonus - 39 Rue Félix Thomas 44000 Nantes",
    "d": "Samedi 19 décembre, 09h00 L'artiste Joel Janse van Vuuren vous invite à participer à son atelier de pratique artistique à Bonus, site de Félix Thomas. Pendant les vacances de décembre, les artistes du Collectif Bonus proposent des ateliers ",
@@ -4561,6 +4464,42 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/10253054_a-vos-bulles-811-ans-3884952",
    "lat": 47.219278,
    "lon": -1.547083
+  },
+  {
+   "n": "Saison LU – Théâtre – Anne Théron",
+   "w": "Le Lieu Unique Nantes - Quai Ferdinand Favre, Nantes",
+   "d": "18 et 19 mai 2027 Entre science-fiction et mémoire fragmentée, DELETE d'Anne Théron se déploie comme un conte fantastique explorant la confrontation entre intelligences artificielles et humaines. Dans un futur proche, Davos, photographe, es",
+   "start": "2027-05-18",
+   "end": "2027-05-19",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantesmetropole/events/88875817_saison-lu-theatre-anne-theron",
+   "lat": 47.214041,
+   "lon": -1.543097
+  },
+  {
+   "n": "Vers Les Métamorphoses",
+   "w": "Mixt, salle Super - 49 rue du Coudray, Nantes",
+   "d": "19 - 22 mai 2027 Étienne Saglio - Monstre(s) Magie nouvelle, théâtre d’ombres, marionnettes et danse : Étienne Saglio nous invite à faire l’expérience d’une immersion sensorielle troublante où l’identité se dédouble, se recompose et s’envol",
+   "start": "2027-05-19",
+   "end": "2027-05-22",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/mixt/events/24185430_vers-les-metamorphoses-7711475",
+   "lat": 47.231354,
+   "lon": -1.542835
   }
  ]
 }
