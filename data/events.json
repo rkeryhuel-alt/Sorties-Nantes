@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:49:31+00:00",
+ "generated_at": "2026-11-23T05:57:06+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -711,21 +711,6 @@
    "lon": -1.557937
   },
   {
-   "n": "Week-end Les Sales Culottes",
-   "w": "Théâtre du Cyclope - 82 rue du Maréchal Joffre, Nantes",
-   "d": "20 - 22 novembre Une programmation théâtrale Les Sales Culottes 100% autrices! Le théâtre du Cyclope accueille la compagnie de théâtre nantaise Les Sales Culottes pour un week-end à l'honneur des autrices dramaturges! Vendredi 20 nov. 19h00",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "ages": [
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/egalite/events/21880688_week-end-les-sales-culottes",
-   "lat": 47.302268,
-   "lon": -1.558045
-  },
-  {
    "n": "Animation enfants 7/11 ans – Château des ducs de Bretagne",
    "w": "Château des ducs de bretagne - musée d'histoire de Nantes - 4, place Marc Elder 44 000 — N",
    "d": "21 novembre 2026 - 2 janvier 2027 Au Château des ducs de Bretagne, une animation est proposée aux enfants de 7 à 11 ans pour mener une enquête de Noël et découvrir les mystères cachés dans le musée. Le Château des ducs de Bretagne propose a",
@@ -775,24 +760,6 @@
    "lon": -1.548771
   },
   {
-   "n": "CHERS PARENTS",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "22 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
-   "lat": 47.202277,
-   "lon": -1.572656
-  },
-  {
    "n": "Visite et atelier en famille – Noël au château",
    "w": "Château des ducs de bretagne - musée d'histoire de Nantes - 4, place Marc Elder 44 000 — N",
    "d": "22 novembre - 30 décembre Pendant les fêtes, vivez un moment en famille au Château des ducs de Bretagne avec une visite ludique suivie d’un atelier créatif. À l’occasion de Noël, le Château des ducs de Bretagne propose une visite-atelier à ",
@@ -807,24 +774,6 @@
    "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/43206188_visite-atelier-en-famille-noel-au-chateau",
    "lat": 47.216117,
    "lon": -1.549313
-  },
-  {
-   "n": "Visite-atelier en famille de Surréelles. De Leonor Fini à Hélène Delprat, une autre traversée du surréalisme (+ 6 ans)",
-   "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
-   "d": "Dimanche 22 novembre, 14h00 La visite guidée atelier spéciale famille ! Le premier dimanche de l’exposition est l’occasion de la découvrir en famille. Au programme : mini visites fondées sur le hasard, atelier de collage et goûter ! Visite-",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/musees-arts-nantes/events/44207606_visite-atelier-en-famille-de-surreelles-une-autre-traversee-du-surrealisme-6-ans",
-   "lat": 47.219278,
-   "lon": -1.547083
   },
   {
    "n": "Atelier : Réussir son entretien",
@@ -1032,6 +981,24 @@
    "url": "https://openagenda.com/doulon-bottiere/events/82310438_atelier-decouverte-rebozo",
    "lat": 47.236023,
    "lon": -1.518628
+  },
+  {
+   "n": "CHERS PARENTS",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "27 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "L'oiseau d'Ourdi",
@@ -4511,6 +4478,22 @@
    "url": "https://openagenda.com/nantes-sud/events/52566202_lhomme-au-masque-de-fer-paul-don-ate",
    "lat": 47.19487,
    "lon": -1.538813
+  },
+  {
+   "n": "Monsieur Malaussène au théâtre",
+   "w": "Théâtre de la rue de belleville - 19 rue de Belleville, Nantes",
+   "d": "Vendredi 31 décembre 2027, 17h00 Benjamin Malaussène va être papa. Il est en proie à de nombreuses interrogations qu’il décide de partager avec le futur bébé. Un tête-à-tête entre un père et son fils. Une fable sur la vie. «Les gosses, dis-",
+   "start": "2027-12-31",
+   "end": "2027-12-31",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/dervallieres-zola/events/66133167_monsieur-malaussene-au-theatre-9705260",
+   "lat": 47.211704,
+   "lon": -1.574857
   }
  ]
 }
