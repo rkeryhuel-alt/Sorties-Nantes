@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:57:06+00:00",
+ "generated_at": "2026-11-24T05:52:18+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -776,24 +776,6 @@
    "lon": -1.549313
   },
   {
-   "n": "Atelier : Réussir son entretien",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Lundi 23 novembre, 09h30 avec l'ATDEC Mettez toutes les chances de votre côté pour réussir votre entretien d’embauche! Garde d'enfants possible sous réserve de places disponible a voir au moment de votre inscriptions Programme de la Semaine",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/57942629_atelier-emploi-7288390",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "La manière et l’occasion + J’ai oublié | Jonathan Poulet, Laurent Cebe et Théo Vincent",
    "w": "Théâtre Francine Vasse - 18 rue Colbert 44000 Nantes",
    "d": "Mardi 24 novembre, 19h00 Deux formes, entre performance et son, l’une collective, l’autre en duo : bienvenue dans l’univers artistique d’un trio singulier où l’aléatoire, l’absurde, laisse place au surgissement et aux éclats. Deux formes, e",
@@ -1182,6 +1164,24 @@
    "lieu": "int",
    "prix": "gratuit",
    "url": "https://metropole.nantes.fr/infonantes/agenda/82392"
+  },
+  {
+   "n": "Les Corsaires de Nantes reçoivent Épinal au Petit Port",
+   "w": "Patinoire Olympique du Petit Port - Boulevard du Petit Port, Nantes",
+   "d": "Samedi 28 novembre, 18h00 les Corsaires de Nantes reçoivent Épinal au Petit Port Samedi 28 novembre à 18h, les Corsaires de Nantes reçoivent les Wildcats d'Épinal à la patinoire du Petit Port, pour la 11e journée du championnat de France de",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/sports-a-nantes/events/24123356_les-corsaires-de-nantes-recoivent-epinal-au-petit-port",
+   "lat": 47.242786,
+   "lon": -1.555551
   },
   {
    "n": "Les Journées polyglottes",
@@ -1597,24 +1597,6 @@
    "lon": -1.542835
   },
   {
-   "n": "Atelier de fabrication de couronnes de l’avent et de décorations de Noël",
-   "w": "Maison de l'Environnement Ecopole - 31 Rue Louis Joxe, Nantes",
-   "d": "Vendredi 4 décembre, 17h30 atelier nature créatif Vous cherchez une activité créative à faire en famille à Nantes pendant l’hiver ? Rejoignez-nous pour un atelier de création de décorations de Noël en matières naturelles ! Ensemble, petits ",
-   "start": "2026-12-04",
-   "end": "2026-12-04",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/agissons-pour-le-climat/events/94534514_atelier-de-fabrication-de-couronnes-de-lavent-et-de-decorations-de-noel",
-   "lat": 47.205152,
-   "lon": -1.54669
-  },
-  {
    "n": "Concert de Noël - Concert symphonique - Saison ONPL",
    "w": "Conservatoire de Nantes - 4 Rue Gaëtan Rondeau, Nantes",
    "d": "4 - 10 décembre Saison de l'Orchestre National des Pays de la Loire Concert symphonique Créatrices cachées, oubliées ou femmes d’illustres compositeurs, de nombreuses compositrices sont souvent restées dans l’ombre du paysage musical. Ce co",
@@ -1696,6 +1678,24 @@
    "url": "https://openagenda.com/nantesmetropole/events/56163869_antoine-et-les-etoiles",
    "lat": 47.204114,
    "lon": -1.567638
+  },
+  {
+   "n": "Atelier de fabrication de couronnes de l’avent et de décorations de Noël",
+   "w": "Maison de l'Environnement Ecopole - 31 Rue Louis Joxe, Nantes",
+   "d": "Samedi 5 décembre, 15h00 atelier nature créatif Vous cherchez une activité créative à faire en famille à Nantes pendant l’hiver ? Rejoignez-nous pour un atelier de création de décorations de Noël en matières naturelles ! Ensemble, petits et",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/agissons-pour-le-climat/events/94534514_atelier-de-fabrication-de-couronnes-de-lavent-et-de-decorations-de-noel",
+   "lat": 47.205152,
+   "lon": -1.54669
   },
   {
    "n": "Bal Trad Polonais",
@@ -2570,6 +2570,22 @@
    "lon": -1.50812
   },
   {
+   "n": "❄️👻 FRISSONS D’HIVER, FRISSONS D’ANTAN ! 👻❄️",
+   "w": "Port-Boyer - 7 rue de Pornichet, 44300 Nantes",
+   "d": "Mercredi 16 décembre, 10h30 ❄️👻 FRISSONS D’HIVER, FRISSONS D’ANTAN ! 👻❄️ ✨ Un voyage dans le temps, entre contes, fantômes et gourmandises… 🎄 Cet hiver, Mme Elsé vous invite à une journée pleine de surprises au Port-Boyer ! ❄️👻 FRISSONS D’H",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/nantes-erdre/events/28586041_frissons-dhiver-frissons-dantan",
+   "lat": 47.241339,
+   "lon": -1.541409
+  },
+  {
    "n": "Dernier appel - Gaspard & Gustave - Concert familles - Saison ONPL",
    "w": "Conservatoire de Nantes - 4 Rue Gaëtan Rondeau, Nantes",
    "d": "Vendredi 18 décembre, 19h00 Saison de l'Orchestre National des Pays de la Loire Concert familles \"Dernier appel\" Musique de Nicolas Dunesme (Commande de l'ONPL) Texte et illustrations : Cécile Turenne Dessins projetés sur écran Guillaume Ma",
@@ -2798,6 +2814,23 @@
    "url": "https://openagenda.com/contributions-evenements-culturels-nantes-et-metropole-nantaise/events/38524336_jeune-public-lucie-et-la-promesse-de-noel",
    "lat": 47.204696,
    "lon": -1.5757
+  },
+  {
+   "n": "Le Voyage en Hiver 2026 – Noël aux Nefs",
+   "w": "Les Nefs des Machines de l'Île - 4 Boulevard Léon Bureau, Nantes",
+   "d": "19 - 27 décembre Chaque année, des Nefs au Carrousel des Mondes Marins, en passant par la Galerie, ce sont toutes les Machines de l’île qui scintillent de mille lumières. Cette année encore des spectacles et animations accueillent petits et",
+   "start": "2026-12-19",
+   "end": "2026-12-27",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "gratuit",
+   "url": "https://openagenda.com/nantesmetropole/events/69535404_le-voyage-en-hiver-2026-noel-aux-nefs",
+   "lat": 47.205488,
+   "lon": -1.563575
   },
   {
    "n": "Les Rockeurs ont du cœur – Édition 2026",
