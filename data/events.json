@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:52:18+00:00",
+ "generated_at": "2026-11-25T05:53:02+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -660,24 +660,6 @@
    "lon": -1.562875
   },
   {
-   "n": "SEMAINE DE LA PARENTALITÉ",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "16 et 25 novembre La parentalité, sous toutes ses formes : communication, emploi, répit,... Parents d’enfants de 0 à 18 ans, venez échanger sur les thématiques du stress, de la charge mentale, de l'aide à l'emploi, et autres… Venez découvri",
-   "start": "2026-11-16",
-   "end": "2026-11-25",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/25695987_semaine-de-la-parentalite-9494540",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "Semaine de la parentalité",
    "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
    "d": "16 - 25 novembre Explorer la parentalité sous toutes ses formes : communication, emploi, répit Nantes sud s’anime autour de la parentalité ! Du 16 au 25 novembre, la Semaine de la parentalité vous invite à souffler, échanger, apprendre et p",
@@ -774,60 +756,6 @@
    "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/43206188_visite-atelier-en-famille-noel-au-chateau",
    "lat": 47.216117,
    "lon": -1.549313
-  },
-  {
-   "n": "La manière et l’occasion + J’ai oublié | Jonathan Poulet, Laurent Cebe et Théo Vincent",
-   "w": "Théâtre Francine Vasse - 18 rue Colbert 44000 Nantes",
-   "d": "Mardi 24 novembre, 19h00 Deux formes, entre performance et son, l’une collective, l’autre en duo : bienvenue dans l’univers artistique d’un trio singulier où l’aléatoire, l’absurde, laisse place au surgissement et aux éclats. Deux formes, e",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre-francine-vasse-les-laboratoires-vivants/events/41240942_la-maniere-et-loccasion-jai-oublie-or-jonathan-poulet-laurent-cebe-et-theo-vincent",
-   "lat": 47.215647,
-   "lon": -1.568918
-  },
-  {
-   "n": "Rencontre: Emploi, garde d'enfants et accompagnement des familles",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Mardi 24 novembre, 10h00 Venez découvrir les métiers des services à la personne et d'assistante maternelle L'agence O2 présentera ses offres d'emploi, le Relais Petite Enfance vous présentera les modes de garde pour vos jeunes enfants et au",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/39973741_venez-decouvrir-les-metiers-des-services-a-la-personne-et-dassistante-maternelle",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "UNFUCKABLES",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "24 novembre 2026 - 11 mai 2027 Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patriarcat. Parce qu'elles ont des choses à lui dire. Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patri",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/45618011_unfuckables-6292474",
-   "lat": 47.202277,
-   "lon": -1.572656
   },
   {
    "n": "Atelier sur le processus du stress",
@@ -2319,6 +2247,24 @@
    "url": "https://metropole.nantes.fr/infonantes/agenda/82396"
   },
   {
+   "n": "Rénovation Party! Soirée Chantier Paillettes au DIX",
+   "w": "Le DIX (Maison de quartier) - 10 place des Garennes, Nantes",
+   "d": "Samedi 12 décembre, 18h00 🎉AVANT LE GRAND CHANGEMENT, PLACE AU GRAND DÉFOULOIR CRÉATIF ! Pour ses 20 ans, le hall d’entrée de votre maison de quartier va bientôt faire peau neuve! Mais avant, les murs sont à vous ! 🎉AVANT LE GRAND CHANGEMEN",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://lecollectifdudix.org/renovation-party/",
+   "lat": 47.202209,
+   "lon": -1.578217
+  },
+  {
    "n": "Tissé Métisse 2026",
    "w": "Cité des Congrès - 5 Rue de Valmy, Nantes",
    "d": "Samedi 12 décembre, 15h00 34e édition du festival Tissé Métisse qui poursuit sa réflexion citoyenne en s’intéressant à « Nos identités ». Depuis 1993, La Fête Tissé Métisse est un espace de découvertes artistiques, de partage d’émotions, de",
@@ -2572,7 +2518,7 @@
   {
    "n": "❄️👻 FRISSONS D’HIVER, FRISSONS D’ANTAN ! 👻❄️",
    "w": "Port-Boyer - 7 rue de Pornichet, 44300 Nantes",
-   "d": "Mercredi 16 décembre, 10h30 ❄️👻 FRISSONS D’HIVER, FRISSONS D’ANTAN ! 👻❄️ ✨ Un voyage dans le temps, entre contes, fantômes et gourmandises… 🎄 Cet hiver, Mme Elsé vous invite à une journée pleine de surprises au Port-Boyer ! ❄️👻 FRISSONS D’H",
+   "d": "Mercredi 16 décembre, 10h30 Un voyage dans le temps, entre contes, fantômes et gourmandises…🎄 Cet hiver, Mme Elsé vous invite à une journée pleine de surprises au Port-Boyer ! Cet hiver, Mme Elsé vous invite à une journée pleine de surprise",
    "start": "2026-12-16",
    "end": "2026-12-16",
    "ages": [
@@ -2580,7 +2526,7 @@
     "3-6"
    ],
    "lieu": "mixte",
-   "prix": "gratuit",
+   "prix": "inconnu",
    "url": "https://openagenda.com/nantes-erdre/events/28586041_frissons-dhiver-frissons-dantan",
    "lat": 47.241339,
    "lon": -1.541409
@@ -2601,6 +2547,24 @@
    "url": "https://openagenda.com/nantesmetropole/events/39425965_dernier-appel-gaspard-and-gustave-concert-familles-saison-onpl",
    "lat": 47.207848,
    "lon": -1.532593
+  },
+  {
+   "n": "Jeudi des Fabriques - Rions noiR : Portrait Craché",
+   "w": "La Fabrique Dervallières - 19 Rue Jean Marc Nattier, Nantes",
+   "d": "Vendredi 18 décembre, 16h00 Portrait craché est un duo père / fils théâtre /cirque homoparentalité / paternité Portrait craché est un duo père / fils théâtre /cirque homoparentalité / paternité Sous la forme d’un récit documenté issu d’une ",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/les-fabriques/events/65103953_jeudi-des-fabriques-rions-noir-portrait-crache",
+   "lat": 47.224903,
+   "lon": -1.591184
   },
   {
    "n": "Labo des histoires sonores",
@@ -2828,7 +2792,7 @@
    ],
    "lieu": "mixte",
    "prix": "gratuit",
-   "url": "https://openagenda.com/nantesmetropole/events/69535404_le-voyage-en-hiver-2026-noel-aux-nefs",
+   "url": "https://www.levoyageanantes.fr/evenements/le-voyage-en-hiver/",
    "lat": 47.205488,
    "lon": -1.563575
   },
@@ -3198,6 +3162,24 @@
    "url": "https://openagenda.com/nantesmetropole/events/48117390_lhumour-sur-son-31-508202",
    "lat": 47.218371,
    "lon": -1.553621
+  },
+  {
+   "n": "UNFUCKABLES",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "6 janvier - 11 mai 2027 Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patriarcat. Parce qu'elles ont des choses à lui dire. Sur le plateau, elles sont quatre. Quatre à essayer d'écrire une lettre au patriarcat. ",
+   "start": "2027-01-06",
+   "end": "2027-01-06",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/theatre100noms/events/45618011_unfuckables-6292474",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Conférence « Mères et enfants dans l'art » par Emmanuelle Berthiaud",
@@ -3642,6 +3624,22 @@
    "url": "https://openagenda.com/conservatoire-de-nantes/events/26281941_viens-danser-or-atelier-decouverte",
    "lat": 47.207848,
    "lon": -1.532593
+  },
+  {
+   "n": "Jeudi des Fabriques - Cie Noesis : Nos Rivières SOURCES",
+   "w": "La Fabrique Chantenay-Bellevue - 30 Boulevard de la Liberté, Nantes",
+   "d": "Jeudi 11 février 2027, 19h00 Les rivières que nous connaissons sont-elles encore vivantes ? Et si nous leur avions construit un monde trop étroit ? Les rivières que nous connaissons sont-elles encore vivantes ? Et si nous leur avions constr",
+   "start": "2027-02-11",
+   "end": "2027-02-11",
+   "ages": [
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/les-fabriques/events/67089280_jeudi-des-fabriques-cie-noesis-nos-rivieres-sources",
+   "lat": 47.199625,
+   "lon": -1.588829
   },
   {
    "n": "L'Avenir des reflets",
