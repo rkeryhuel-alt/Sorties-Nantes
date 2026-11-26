@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:53:02+00:00",
+ "generated_at": "2026-11-26T05:53:58+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -660,21 +660,6 @@
    "lon": -1.562875
   },
   {
-   "n": "Semaine de la parentalité",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "16 - 25 novembre Explorer la parentalité sous toutes ses formes : communication, emploi, répit Nantes sud s’anime autour de la parentalité ! Du 16 au 25 novembre, la Semaine de la parentalité vous invite à souffler, échanger, apprendre et p",
-   "start": "2026-11-16",
-   "end": "2026-11-25",
-   "ages": [
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "gratuit",
-   "url": "https://openagenda.com/bien-grandir-a-nantes/events/76080925_semaine-de-la-parentalite-9181447",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
    "n": "Le Noël des commerçants",
    "w": "Nantes (Centre ville) - Centre Ville, Nantes",
    "d": "20 novembre 2026 - 3 janvier 2027 Un centre-ville, mille idées de cadeaux ! Du 20 novembre au 3 janvier, faites le plein d’animations, de magie et d’idées cadeaux ! ⭐ Spectacle nocturne « Légendaires » : un rendez-vous à ne pas manquer ! 👕 ",
@@ -756,107 +741,6 @@
    "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/43206188_visite-atelier-en-famille-noel-au-chateau",
    "lat": 47.216117,
    "lon": -1.549313
-  },
-  {
-   "n": "Atelier sur le processus du stress",
-   "w": "Maison de quartier des Confluences - 4 Place du Muguet Nantais, Nantes",
-   "d": "Mercredi 25 novembre, 09h30 Par le lieu utile Venez découvrir le processus du stress et comprendre pourquoi le stress nous affecte tant. Il sera possible d’expérimenter des exercices de régulation du stress&nbsp;: respiration, mouvements, v",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-sud/events/73002500_atelier-par-le-lieu-utile",
-   "lat": 47.194265,
-   "lon": -1.528266
-  },
-  {
-   "n": "Conte, raconte",
-   "w": "Nantes · Médiathèque Jacques Demy",
-   "d": "16:30. Lectures d'albums à partir de 4 ans",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "int",
-   "prix": "gratuit",
-   "url": "https://metropole.nantes.fr/infonantes/agenda/82378"
-  },
-  {
-   "n": "Contes de Noël – Librairie Les Enfants Terribles",
-   "w": "Librairie Les Enfants Terribles - 17 Rue de Verdun, Nantes",
-   "d": "Mercredi 25 novembre, 16h00 Profitez d’un moment d’enchantement avec vos enfants à travers des lectures de contes de Noël créatives et dynamiques ! Les librairies du centre-ville de Nantes, avec l'association des commerçants et artisans nan",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantesmetropole/events/96659287_contes-de-noel-librairie-les-enfants-terribles",
-   "lat": 47.217408,
-   "lon": -1.551902
-  },
-  {
-   "n": "Exposition photo : Prête-moi ton objet et Autobâti",
-   "w": "La Générale, Caserne Mellinet - 31 Rue Gabrielle le Pan de Ligny, Nantes",
-   "d": "Mercredi 25 novembre, 15h00 Exposition des œuvres réalisées dans le cadre d'ateliers de co-création entre artistes et habitants de la métropole. Le Centre Claude Cahun vous donne rendez-vous à la Générale - maison de quartier de la Caserne ",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/contributions-evenements-culturels-nantes-et-metropole-nantaise/events/12565173_exposition-photo-prete-moi-ton-objet-et-autobati",
-   "lat": 47.293427,
-   "lon": -1.48575
-  },
-  {
-   "n": "Immersion en orchestre",
-   "w": "Conservatoire de Nantes - 4 Rue Gaëtan Rondeau, Nantes",
-   "d": "Mercredi 25 novembre, 15h30 7-9 ans | Prends place au cœur d’un orchestre d’harmonie junior pour découvrir le timbre de chaque instrument et vivre l’expérience grisante du collectif ! 7-9 ans | Prends place au cœur d’un orchestre d’harmonie",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "6-12"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/conservatoire-de-nantes/events/49528259_immersion-en-orchestre",
-   "lat": 47.207848,
-   "lon": -1.532593
-  },
-  {
-   "n": "PUB QUIZ",
-   "w": "FRENCH KISS - 63 bis bd de la Prairie au Duc, 44200 Nantes",
-   "d": "Mercredi 25 novembre, 19h30 dans le cadre du Festival Culture Bar-Bars Teste tes connaissances dans une ambiance survoltée ! Le Mercredi 25 novembre dès 19h30, l'équipe te donne rendez-vous au French Kiss, le café chaleureux et décalé de l'",
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/festival-culture-bar-bars/events/20232360_pub-quiz",
-   "lat": 47.204148,
-   "lon": -1.564819
   },
   {
    "n": "Atelier de concertation habitants pour l'aménagement des Bourderies",
@@ -2562,7 +2446,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/les-fabriques/events/65103953_jeudi-des-fabriques-rions-noir-portrait-crache",
+   "url": "https://www.facebook.com/p/Fabrique-Dervalli%C3%A8res-100054518406738/?locale=fr_FR",
    "lat": 47.224903,
    "lon": -1.591184
   },
@@ -3417,6 +3301,24 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/92958724_les-incontournables-7-ans-3239864",
    "lat": 47.219278,
    "lon": -1.547083
+  },
+  {
+   "n": "Pool Party",
+   "w": "Piscine Léo Lagrange Ile Gloriette - Nantes - Rue Deurbroucq, Nantes",
+   "d": "Dimanche 17 janvier 2027, 17h00 La piscine municipale devient le théâtre d’une joyeuse invasion de créatures aquatiques ! Un spectacle de Marine Colard - Petite Foule Production Durée du spectacle : 1H15 + DJ set ouvert à toutes et tous Ent",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/nantes-centre-ville/events/80520874_pool-party-1548980",
+   "lat": 47.209858,
+   "lon": -1.560066
   },
   {
    "n": "Aloïse Sauvage + 1ère partie",
