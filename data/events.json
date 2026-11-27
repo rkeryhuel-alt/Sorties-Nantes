@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:53:58+00:00",
+ "generated_at": "2026-11-27T05:55:07+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -181,24 +181,6 @@
    "url": "https://openagenda.com/musees-arts-nantes/events/84662244_eveil-a-lart-a-la-recherche-des-arcs-en-ciel",
    "lat": 47.219278,
    "lon": -1.547083
-  },
-  {
-   "n": "Le monde fantastique des Adultes",
-   "w": "TNT - Terrain Neutre Théâtre - 11 Allée de la Maison Rouge, Nantes",
-   "d": "24 septembre - 26 novembre, certains jeudis À partir d'un lieu donné par le public se crée une mosaïque de situations où les scènes improvisées s’entremêlent au rythme du texte, des corps et de la musique. À partir d'un lieu donné par le pu",
-   "start": "2026-09-24",
-   "end": "2026-09-24",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/nantes-centre-ville/events/49673750_le-monde-fantastique-des-adultes-3713102",
-   "lat": 47.212563,
-   "lon": -1.552063
   },
   {
    "n": "Comédie familiale - \"Ado un jour, à dos toujours !\"",
@@ -741,40 +723,6 @@
    "url": "https://openagenda.com/chateau-des-ducs-de-bretagne/events/43206188_visite-atelier-en-famille-noel-au-chateau",
    "lat": 47.216117,
    "lon": -1.549313
-  },
-  {
-   "n": "Atelier de concertation habitants pour l'aménagement des Bourderies",
-   "w": "École Élémentaire publique Lucie Aubrac - 47 boulevard jean moulin 44100 nantes",
-   "d": "Jeudi 26 novembre, 18h00 Participez à un atelier de concertation citoyenne pour imaginer ensemble les futurs aménagements du quartier des Bourderies. Les enfants du quartier des Bourderies ont été concertés à la rentrée pour imaginer le qua",
-   "start": "2026-11-26",
-   "end": "2026-11-26",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/bellevue-chantenay-sainte-anne/events/32918000_atelier-de-concertation-habitants-pour-lamenagement-des-bourderies",
-   "lat": 47.208112,
-   "lon": -1.598938
-  },
-  {
-   "n": "Atelier découverte Rebozo",
-   "w": "Maison de quartier Bottière - 147 route de Sainte-Luce, Nantes",
-   "d": "Jeudi 26 novembre, 14h00 Pause Partum : Atelier futures et jeunes mamans - Association Trust Atelier animé par Juliette Defrance, Doula et praticienne en Slow Rebozo Le rebozo, c'est un tissu utilisé depuis longtemps en Amérique latine pour",
-   "start": "2026-11-26",
-   "end": "2026-11-26",
-   "ages": [
-    "0-3",
-    "3-6"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/doulon-bottiere/events/82310438_atelier-decouverte-rebozo",
-   "lat": 47.236023,
-   "lon": -1.518628
   },
   {
    "n": "CHERS PARENTS",
@@ -2449,6 +2397,24 @@
    "url": "https://www.facebook.com/p/Fabrique-Dervalli%C3%A8res-100054518406738/?locale=fr_FR",
    "lat": 47.224903,
    "lon": -1.591184
+  },
+  {
+   "n": "La Maison de quartier Bottière en fête !",
+   "w": "Maison de quartier Bottière - 147 route de Sainte-Luce, Nantes",
+   "d": "Vendredi 18 décembre, 14h00 Animations, boum pour les mômes, spectacle de feu... Venez nombreux le 18 décembre ! De 14h -18h : atelier décorations de Noël et cartes de voeux, arbre à voeux, jeux avec la ludothèque, maquillage et paillettes,",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/doulon-bottiere/events/10976908_la-maison-de-quartier-bottiere-en-fete",
+   "lat": 47.236023,
+   "lon": -1.518628
   },
   {
    "n": "Labo des histoires sonores",
