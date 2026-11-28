@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:55:07+00:00",
+ "generated_at": "2026-11-28T05:49:59+00:00",
  "events": [
   {
    "n": "Les mercredis street art !",
@@ -725,24 +725,6 @@
    "lon": -1.549313
   },
   {
-   "n": "CHERS PARENTS",
-   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
-   "d": "27 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/97596782_chers-parents-4955106",
-   "lat": 47.202277,
-   "lon": -1.572656
-  },
-  {
    "n": "L'oiseau d'Ourdi",
    "w": "Théâtre Rue de Belleville - 19 Rue de Belleville , Nantes",
    "d": "27 novembre - 5 décembre Tissée avec l’univers du conte, cette histoire vraie raconte de manière poétique et réaliste une relation amoureuse qui vire à la violence intime et la quête d’une femme pour sortir de l’emprise. Au cœur de la forêt",
@@ -779,24 +761,6 @@
    "lon": -1.561213
   },
   {
-   "n": "MEDICIS",
-   "w": "CAFÉ DE LA CITÉ - 5 rue de Valmy, 44000 Nantes",
-   "d": "Vendredi 27 novembre, 20h00 dans le cadre du Festival Culture Bar-Bars MEDICIS est un univers Rock puissant, destructeur, ornementé de vapeurs Post et Noise élégantes, étincelantes. Une énergie maîtrisée qui fait la force du groupe, un doux",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "ages": [
-    "0-3",
-    "3-6",
-    "6-12",
-    "12+"
-   ],
-   "lieu": "mixte",
-   "prix": "inconnu",
-   "url": "https://openagenda.com/festival-culture-bar-bars/events/52039993_medicis-6428934",
-   "lat": 47.213314,
-   "lon": -1.544058
-  },
-  {
    "n": "28/29 novembre - Danse Improvisation - Stage de l'Ancrage à l'Envol",
    "w": "Salle de danse du 38 rue du Breil - 38 rue du Breil, 44100 Nantes",
    "d": "28 et 29 novembre Stage de danse improvisation sur un week-end Bonjour à toutes et à tous, Nous avons a la joie d'accueillir un stage animé par Kostia Cerda, Annaël Messiez, Carey Jeffries et Aude Ramette. Anaël, Aude, Kostia et Carey, asse",
@@ -813,6 +777,24 @@
    "url": "https://openagenda.com/vie-associative-nantes-ville-et-metropole/events/21943723_2829-novembre-danse-improvisation-stage-de-lancrage-a-lenvol",
    "lat": 47.229062,
    "lon": -1.584965
+  },
+  {
+   "n": "CHERS PARENTS",
+   "w": "Théâtre 100 Noms - 21 Quai des Antilles, 44200 Nantes",
+   "d": "28 novembre 2026 - 30 janvier 2027 Une comédie satirique et grinçante de Emmanuel Patron & Armelle Patron\\ Après cinq années de succès retentissant à Paris et en tournée, la comédie confirme son statut d'incontournable et s’installe à… Une ",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12+"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://billetterie-theatre100noms.mapado.com/event/721088-chers-parents",
+   "lat": 47.202277,
+   "lon": -1.572656
   },
   {
    "n": "Conte, raconte",
@@ -3027,7 +3009,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/45618011_unfuckables-6292474",
+   "url": "https://billetterie-theatre100noms.mapado.com/event/729376-unfuckables",
    "lat": 47.202277,
    "lon": -1.572656
   },
@@ -3763,6 +3745,22 @@
    "lon": -1.5757
   },
   {
+   "n": "Jeune public - \"Gourmandine et le Professeur Harry Bus\"",
+   "w": "Théâtre de Jeanne - 5 Rue des Salorges, Nantes",
+   "d": "1 - 5 mars 2027 Suivez les aventures du célèbre professeur Harry Bus et de son assistante Gourmandine dans un spectacle plein d’imagination qui mélange habilement gourmandise et pédagogie ! Conte humoristique et musical écrit et mis en scèn",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "lieu": "mixte",
+   "prix": "inconnu",
+   "url": "https://openagenda.com/contributions-evenements-culturels-nantes-et-metropole-nantaise/events/32066338_jeune-public-gourmandine-et-le-professeur-harry-bus",
+   "lat": 47.204696,
+   "lon": -1.5757
+  },
+  {
    "n": "Rayogrammes (+ 6 ans)",
    "w": "Musée d'arts de Nantes - 10 Rue Georges Clemenceau, Nantes",
    "d": "3 - 6 mars 2027 Atelier en famille en écho au Bicentenaire de la photographie En écho au Bicentenaire de la Photographie, découvrez en famille la technique du rayogramme découverte par hasard par l’artiste Man Ray. Atelier en continu de 14h",
@@ -3848,7 +3846,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/37756138_thomas-poitevin-yaourt-311028",
+   "url": "https://billetterie-theatre100noms.mapado.com/event/698207-thomas-poitevin-yaourt",
    "lat": 47.202277,
    "lon": -1.572656
   },
@@ -4320,7 +4318,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/45011404_girls-and-boys-8399746",
+   "url": "https://billetterie-theatre100noms.mapado.com/event/864369-girls-boys",
    "lat": 47.202277,
    "lon": -1.572656
   },
@@ -4356,7 +4354,7 @@
    ],
    "lieu": "mixte",
    "prix": "inconnu",
-   "url": "https://openagenda.com/theatre100noms/events/9556671_les-secrets-des-richardson-funerailles-fatales-7037532",
+   "url": "https://billetterie-theatre100noms.mapado.com/event/864363-les-secrets-des-richardson-funerailles-fatales",
    "lat": 47.202277,
    "lon": -1.572656
   },
